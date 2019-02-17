@@ -12,6 +12,8 @@ An updated data of Kenya administrative and political units
   * Counties (under-dev)
   * Constituencies (under-dev)
   * Wards (under-dev)
+* Postal Codes
+    * Kenya postal codes/office (under-dev)
   
 ## Contribution guide
 ## Sources
