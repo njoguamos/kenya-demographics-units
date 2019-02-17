@@ -1,7 +1,7 @@
 # Kenya Demographics Units
 An updated data of Kenya administrative and political units
 
-## Units Avavailable
+## Units Available
 * Administrative Units
   * Counties (under-dev)
   * Sub-counties (under-dev)
@@ -14,4 +14,5 @@ An updated data of Kenya administrative and political units
   * Wards (under-dev)
   
 ## Contribution guide
+## Sources
 ## Uses
