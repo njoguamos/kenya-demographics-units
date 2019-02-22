@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row code="1" county_code="1" name="Changamwe"/>
+    <row code="2" county_code="1" name="Jomvu"/>
+    <row code="3" county_code="1" name="Kisauni"/>
+    <row code="4" county_code="1" name="Nyali"/>
+    <row code="5" county_code="1" name="Likoni"/>
+    <row code="6" county_code="1" name="Mvita"/>
+    <row code="7" county_code="2" name="Msambweni"/>
+    <row code="8" county_code="2" name="Lunga Lunga"/>
+    <row code="9" county_code="2" name="Kwale"/>
+    <row code="10" county_code="2" name="Kinango"/>
+    <row code="11" county_code="3" name="Bahari(Kilifi)"/>
+    <row code="12" county_code="3" name="Kilifi South"/>
+    <row code="13" county_code="3" name="Kaloleni"/>
+    <row code="14" county_code="3" name="Rabai"/>
+    <row code="15" county_code="3" name="Ganze"/>
+    <row code="16" county_code="3" name="Malindi"/>
+    <row code="17" county_code="3" name="Magarini"/>
+    <row code="18" county_code="4" name="Tana Delta"/>
+    <row code="19" county_code="4" name="Tana River"/>
+    <row code="20" county_code="4" name="Bura(Tana North)"/>
+    <row code="21" county_code="5" name="Lamu East"/>
+    <row code="22" county_code="5" name="Lamu West"/>
+    <row code="23" county_code="6" name="Taveta"/>
+    <row code="24" county_code="6" name="Wundanyi(Taita)"/>
+    <row code="25" county_code="6" name="Mwatate"/>
+    <row code="26" county_code="6" name="Voi"/>
+    <row code="27" county_code="7" name="Hulugho"/>
+    <row code="28" county_code="7" name="Liara"/>
+    <row code="29" county_code="7" name="Balambala"/>
+    <row code="30" county_code="7" name="Lagdera"/>
+    <row code="31" county_code="7" name="Dadaab"/>
+    <row code="32" county_code="7" name="Fafi"/>
+    <row code="33" county_code="7" name="Ijara"/>
+    <row code="34" county_code="8" name="Wajir North"/>
+    <row code="35" county_code="8" name="Wajir East"/>
+    <row code="36" county_code="8" name="Buna"/>
+    <row code="37" county_code="8" name="Habaswein"/>
+    <row code="38" county_code="8" name="Tarbaj"/>
+    <row code="39" county_code="8" name="Wajir West"/>
+    <row code="40" county_code="8" name="Eldas"/>
+    <row code="41" county_code="8" name="Wajir South"/>
+    <row code="42" county_code="9" name="Mandera West"/>
+    <row code="43" county_code="9" name="Banisa"/>
+    <row code="44" county_code="9" name="Mandera North"/>
+    <row code="45" county_code="9" name="Mandera Central"/>
+    <row code="46" county_code="9" name="Mandera East"/>
+    <row code="47" county_code="9" name="Lafey"/>
+    <row code="48" county_code="10" name="Moyale"/>
+    <row code="49" county_code="10" name="Marsabit"/>
+    <row code="50" county_code="10" name="Horr North"/>
+    <row code="51" county_code="10" name="Loiyangalani"/>
+    <row code="52" county_code="10" name="Chalbi"/>
+    <row code="53" county_code="10" name="Sololo"/>
+    <row code="54" county_code="10" name="Marsabit South(Laisamis)"/>
+    <row code="55" county_code="11" name="Garbatula"/>
+    <row code="56" county_code="11" name="Isiolo"/>
+    <row code="57" county_code="11" name="Merti"/>
+    <row code="58" county_code="12" name="Igembe South"/>
+    <row code="59" county_code="12" name="Igembe Central"/>
+    <row code="60" county_code="12" name="Igembe North"/>
+    <row code="61" county_code="12" name="Imenti South"/>
+    <row code="62" county_code="12" name="Imenti North"/>
+    <row code="63" county_code="12" name="Meru Central"/>
+    <row code="64" county_code="12" name="Tigania Central"/>
+    <row code="65" county_code="12" name="Tigania East"/>
+    <row code="66" county_code="12" name="Tigania West"/>
+    <row code="67" county_code="12" name="Buuri"/>
+    <row code="68" county_code="13" name="Meru South"/>
+    <row code="69" county_code="13" name="Maara"/>
+    <row code="70" county_code="13" name="Tharaka South"/>
+    <row code="71" county_code="13" name="Tharaka North"/>
+    <row code="72" county_code="14" name="Embu East"/>
+    <row code="73" county_code="14" name="Embu North"/>
+    <row code="74" county_code="14" name="Embu West"/>
+    <row code="75" county_code="14" name="Mbeere North"/>
+    <row code="76" county_code="14" name="Mbeere South"/>
+    <row code="77" county_code="15" name="Mwingi Central"/>
+    <row code="78" county_code="15" name="Mwingi West"/>
+    <row code="79" county_code="15" name="Mwingi East"/>
+    <row code="80" county_code="15" name="Kitui West"/>
+    <row code="81" county_code="15" name="Kitui Central"/>
+    <row code="82" county_code="15" name="Nzambani"/>
+    <row code="83" county_code="15" name="Mutomo"/>
+    <row code="84" county_code="15" name="Mutomo"/>
+    <row code="85" county_code="15" name="Ikutha"/>
+    <row code="86" county_code="15" name="Katulani"/>
+    <row code="87" county_code="15" name="Kisasi"/>
+    <row code="88" county_code="15" name="Kyuso"/>
+    <row code="89" county_code="15" name="Lower Yatta"/>
+    <row code="90" county_code="15" name="Matinyani"/>
+    <row code="91" county_code="15" name="Mumoni"/>
+    <row code="92" county_code="15" name="Mutito"/>
+    <row code="93" county_code="16" name="Masinga"/>
+    <row code="94" county_code="16" name="Yatta"/>
+    <row code="95" county_code="16" name="Kangundo"/>
+    <row code="96" county_code="16" name="Matungulu"/>
+    <row code="97" county_code="16" name="Kathiani"/>
+    <row code="98" county_code="16" name="Athi River"/>
+    <row code="99" county_code="16" name="Machakos "/>
+    <row code="100" county_code="16" name="Mwala"/>
+    <row code="101" county_code="17" name="Kibwezi"/>
+    <row code="102" county_code="17" name="Kilungu"/>
+    <row code="103" county_code="17" name="Makindu"/>
+    <row code="104" county_code="17" name="Makueni"/>
+    <row code="105" county_code="17" name="Mbooni West"/>
+    <row code="106" county_code="17" name="Mbooni East"/>
+    <row code="107" county_code="17" name="Kathonzweni"/>
+    <row code="108" county_code="17" name="Mukaa"/>
+    <row code="109" county_code="17" name="Nzaui"/>
+    <row code="110" county_code="18" name="Kinangop"/>
+    <row code="111" county_code="18" name="Kipipiri"/>
+    <row code="112" county_code="18" name="Mirangine"/>
+    <row code="113" county_code="18" name="Nyandarua Central"/>
+    <row code="114" county_code="18" name="Nyandarua North"/>
+    <row code="115" county_code="18" name="Nyandarua South"/>
+    <row code="116" county_code="18" name="Nyandarua West"/>
+    <row code="117" county_code="19" name="Tetu"/>
+    <row code="118" county_code="19" name="Kieni East"/>
+    <row code="119" county_code="19" name="Kieni West"/>
+    <row code="120" county_code="19" name="Mathira East"/>
+    <row code="121" county_code="19" name="Mathira West"/>
+    <row code="122" county_code="19" name="Mukurwe-ini"/>
+    <row code="123" county_code="19" name="Nyeri Central"/>
+    <row code="124" county_code="19" name="Nyeri South"/>
+    <row code="125" county_code="20" name="Kirinyaga Central"/>
+    <row code="126" county_code="20" name="Kirinyaga East"/>
+    <row code="127" county_code="20" name="Kiinyaga West"/>
+    <row code="128" county_code="20" name="Mwea East"/>
+    <row code="129" county_code="20" name="Mwea West"/>
+    <row code="130" county_code="21" name="Kangema"/>
+    <row code="131" county_code="21" name="Mathioya"/>
+    <row code="132" county_code="21" name="Kahuro"/>
+    <row code="133" county_code="21" name="Kigumo"/>
+    <row code="134" county_code="21" name="Murang'a East"/>
+    <row code="135" county_code="21" name="Kandara"/>
+    <row code="136" county_code="21" name="Gatanga"/>
+    <row code="137" county_code="21" name="Murang'a south"/>
+    <row code="138" county_code="22" name="Gatundu South"/>
+    <row code="139" county_code="22" name="Gatundu North"/>
+    <row code="140" county_code="22" name="Juja"/>
+    <row code="141" county_code="22" name="Ruiru"/>
+    <row code="142" county_code="22" name="Githunguri"/>
+    <row code="143" county_code="22" name="Kiambu"/>
+    <row code="144" county_code="22" name="Kiambaa"/>
+    <row code="145" county_code="22" name="Kabete"/>
+    <row code="146" county_code="22" name="Kikuyu"/>
+    <row code="147" county_code="22" name="Limuru"/>
+    <row code="148" county_code="22" name="Lari"/>
+    <row code="149" county_code="22" name="Thika East"/>
+    <row code="150" county_code="22" name="Thika West"/>
+    <row code="151" county_code="23" name="Turkana North"/>
+    <row code="152" county_code="23" name="Turkana West"/>
+    <row code="153" county_code="23" name="Turkana Central"/>
+    <row code="154" county_code="23" name="Loima"/>
+    <row code="155" county_code="23" name="Turkana South"/>
+    <row code="156" county_code="23" name="Turkana East"/>
+    <row code="157" county_code="23" name="Kibish"/>
+    <row code="158" county_code="24" name="Kipkomo"/>
+    <row code="159" county_code="24" name="Pokot Central"/>
+    <row code="160" county_code="24" name="Pokot North"/>
+    <row code="161" county_code="24" name="Pokot South"/>
+    <row code="162" county_code="24" name="West Pokot"/>
+    <row code="163" county_code="25" name="Samburu Central"/>
+    <row code="164" county_code="25" name="Samburu North"/>
+    <row code="165" county_code="25" name="Samburu East"/>
+    <row code="166" county_code="26" name="Kwanza"/>
+    <row code="167" county_code="26" name="Endebes"/>
+    <row code="168" county_code="26" name="Transzoia East"/>
+    <row code="169" county_code="26" name="Kiminini"/>
+    <row code="170" county_code="26" name="Transzoia West"/>
+    <row code="171" county_code="27" name="Soy"/>
+    <row code="172" county_code="27" name="Wareng"/>
+    <row code="173" county_code="27" name="Moiben"/>
+    <row code="174" county_code="27" name="Eldoret West"/>
+    <row code="175" county_code="27" name="Eldoret East"/>
+    <row code="176" county_code="27" name="Kesses"/>
+    <row code="177" county_code="28" name="Marakwet East"/>
+    <row code="178" county_code="28" name="Marakwet West"/>
+    <row code="179" county_code="28" name="Keiyo"/>
+    <row code="180" county_code="28" name="Keiyo South"/>
+    <row code="181" county_code="29" name="Tinderet"/>
+    <row code="182" county_code="29" name="Nandi Central"/>
+    <row code="183" county_code="29" name="Nandi East"/>
+    <row code="184" county_code="29" name="Chesumei"/>
+    <row code="185" county_code="29" name="Nandi North"/>
+    <row code="186" county_code="29" name="Nandi South"/>
+    <row code="187" county_code="30" name="East Pokot"/>
+    <row code="188" county_code="30" name="Baringo North"/>
+    <row code="189" county_code="30" name="Baringo Central"/>
+    <row code="190" county_code="30" name="Koibatek"/>
+    <row code="191" county_code="30" name="Marigat"/>
+    <row code="192" county_code="30" name="Mogotio"/>
+    <row code="193" county_code="31" name="Laikipia West"/>
+    <row code="194" county_code="31" name="Laikipia East"/>
+    <row code="195" county_code="31" name="Laikipia North"/>
+    <row code="196" county_code="31" name="Laikipia Central"/>
+    <row code="197" county_code="31" name="Nyahururu"/>
+    <row code="198" county_code="32" name="Molo"/>
+    <row code="199" county_code="32" name="Njoro"/>
+    <row code="200" county_code="32" name="Naivasha"/>
+    <row code="201" county_code="32" name="Gilgil"/>
+    <row code="202" county_code="32" name="Kuresoi "/>
+    <row code="203" county_code="32" name="Kuresoi North"/>
+    <row code="204" county_code="32" name="Subukia"/>
+    <row code="205" county_code="32" name="Rongai"/>
+    <row code="206" county_code="32" name="Nakuru"/>
+    <row code="207" county_code="32" name="Nakuru West"/>
+    <row code="208" county_code="32" name="Nakuru North"/>
+    <row code="209" county_code="33" name="Narok North"/>
+    <row code="210" county_code="33" name="Narok East"/>
+    <row code="211" county_code="33" name="Narok South"/>
+    <row code="212" county_code="33" name="Narok West"/>
+    <row code="213" county_code="33" name="Transmara East"/>
+    <row code="214" county_code="33" name="Transmara West"/>
+    <row code="215" county_code="34" name="Kajiado North"/>
+    <row code="216" county_code="34" name="Kajiado Central"/>
+    <row code="217" county_code="34" name="Kajiado West"/>
+    <row code="218" county_code="34" name="Isinya"/>
+    <row code="219" county_code="34" name="Loitokitok"/>
+    <row code="220" county_code="34" name="Mashuuru"/>
+    <row code="221" county_code="35" name="Kipkelion "/>
+    <row code="222" county_code="35" name="Kericho"/>
+    <row code="223" county_code="35" name="Londiani"/>
+    <row code="224" county_code="35" name="Bureti"/>
+    <row code="225" county_code="35" name="Belgut"/>
+    <row code="226" county_code="35" name="Sigowei/Soin"/>
+    <row code="227" county_code="36" name="Sotik"/>
+    <row code="228" county_code="36" name="Chepalungu"/>
+    <row code="229" county_code="36" name="Bomet East"/>
+    <row code="230" county_code="36" name="Bomet "/>
+    <row code="231" county_code="36" name="Konoin"/>
+    <row code="232" county_code="37" name="Lugari"/>
+    <row code="233" county_code="37" name="Matete"/>
+    <row code="234" county_code="37" name="Likuyani"/>
+    <row code="235" county_code="37" name="Kakamega Central"/>
+    <row code="236" county_code="37" name="Kakamega East"/>
+    <row code="237" county_code="37" name="Navakholo"/>
+    <row code="238" county_code="37" name="Mumias "/>
+    <row code="239" county_code="37" name="Mumias East"/>
+    <row code="240" county_code="37" name="Matungu"/>
+    <row code="241" county_code="37" name="Butere"/>
+    <row code="242" county_code="37" name="Khwisero"/>
+    <row code="243" county_code="37" name="Kakamega North"/>
+    <row code="244" county_code="37" name="Kakamega South"/>
+    <row code="245" county_code="38" name="Vihiga"/>
+    <row code="246" county_code="38" name="Sabatia"/>
+    <row code="247" county_code="38" name="Hamisi"/>
+    <row code="248" county_code="38" name="Luanda"/>
+    <row code="249" county_code="38" name="Emuhaya"/>
+    <row code="250" county_code="39" name="Mt. Elgon"/>
+    <row code="251" county_code="39" name="Bungoma Central"/>
+    <row code="252" county_code="39" name="Bungoma East"/>
+    <row code="253" county_code="39" name="Bungoma North"/>
+    <row code="254" county_code="39" name="Bungoma South"/>
+    <row code="255" county_code="39" name="Bungoma West"/>
+    <row code="256" county_code="39" name="Webuye West"/>
+    <row code="257" county_code="39" name="Cheptais"/>
+    <row code="258" county_code="39" name="Kimilili"/>
+    <row code="259" county_code="39" name="Bumula"/>
+    <row code="260" county_code="40" name="Teso North"/>
+    <row code="261" county_code="40" name="Teso South"/>
+    <row code="262" county_code="40" name="Nambale"/>
+    <row code="263" county_code="40" name="Bunyala"/>
+    <row code="264" county_code="40" name="Busia"/>
+    <row code="265" county_code="40" name="Butula"/>
+    <row code="266" county_code="40" name="Samia"/>
+    <row code="267" county_code="41" name="Ugenya"/>
+    <row code="268" county_code="41" name="Ugunja"/>
+    <row code="269" county_code="41" name="Siaya"/>
+    <row code="270" county_code="41" name="Gem"/>
+    <row code="271" county_code="41" name="Bondo"/>
+    <row code="272" county_code="41" name="Rarieda"/>
+    <row code="273" county_code="42" name="Kisumu East"/>
+    <row code="274" county_code="42" name="Kisumu West"/>
+    <row code="275" county_code="42" name="Kisumu Central"/>
+    <row code="276" county_code="42" name="Seme"/>
+    <row code="277" county_code="42" name="Nyando"/>
+    <row code="278" county_code="42" name="Muhoroni"/>
+    <row code="279" county_code="42" name="Nyakach"/>
+    <row code="280" county_code="43" name="Mbita"/>
+    <row code="281" county_code="43" name="Rachuonyo East"/>
+    <row code="282" county_code="43" name="Rachuonyo North"/>
+    <row code="283" county_code="43" name="Rachuonyo South"/>
+    <row code="284" county_code="43" name="Homa Bay"/>
+    <row code="285" county_code="43" name="Ndhiwa"/>
+    <row code="286" county_code="43" name="Rangwe"/>
+    <row code="287" county_code="43" name="Suba "/>
+    <row code="288" county_code="44" name="Rongo"/>
+    <row code="289" county_code="44" name="Awendo"/>
+    <row code="290" county_code="44" name="Migori"/>
+    <row code="291" county_code="44" name="Suna West"/>
+    <row code="292" county_code="44" name="Uriri"/>
+    <row code="293" county_code="44" name="Nyatike"/>
+    <row code="294" county_code="44" name="Kuria West"/>
+    <row code="295" county_code="44" name="Kuria East"/>
+    <row code="296" county_code="45" name="Gucha"/>
+    <row code="297" county_code="45" name="Gucha South"/>
+    <row code="298" county_code="45" name="Kenyenya"/>
+    <row code="299" county_code="45" name="Kisii Central"/>
+    <row code="300" county_code="45" name="Kisii South"/>
+    <row code="301" county_code="45" name="Kitutu Central"/>
+    <row code="302" county_code="45" name="Marani"/>
+    <row code="303" county_code="45" name="Masaba south"/>
+    <row code="304" county_code="45" name="Nyamache"/>
+    <row code="305" county_code="45" name="Sameta"/>
+    <row code="306" county_code="46" name="Manga"/>
+    <row code="307" county_code="46" name="Masaba North"/>
+    <row code="308" county_code="46" name="Borabu"/>
+    <row code="309" county_code="46" name="Nyamira North"/>
+    <row code="310" county_code="46" name="Nyamira South"/>
+    <row code="311" county_code="47" name="Westlands"/>
+    <row code="312" county_code="47" name="Dagoretti"/>
+    <row code="313" county_code="47" name="Langata"/>
+    <row code="314" county_code="47" name="Kibra"/>
+    <row code="315" county_code="47" name="Kasarani"/>
+    <row code="316" county_code="47" name="Embakasi"/>
+    <row code="317" county_code="47" name="Makadara"/>
+    <row code="318" county_code="47" name="Kamukunji"/>
+    <row code="319" county_code="47" name="Starehe"/>
+    <row code="320" county_code="47" name="Mathare"/>
+    <row code="321" county_code="47" name="Njiru"/>
+</rows>

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row code="40101" office="Ahero"/>
+    <row code="30101" office="Ainabkoi"/>
+    <row code="40139" office="Akala"/>
+    <row code="50244" office="Amagoro"/>
+    <row code="20424" office="Amalo (Formerly Oloomirani)"/>
+    <row code="50403" office="Amukura"/>
+    <row code="40309" office="Asumbi"/>
+    <row code="00204" office="Athi River"/>
+    <row code="40122" office="Awasi"/>
+    <row code="20113" office="Bahati"/>
+    <row code="80101" office="Bamburi"/>
+    <row code="50316" office="Banja"/>
+    <row code="20601" office="Baragoi"/>
+    <row code="30306" office="Baraton"/>
+    <row code="10302" office="Baricho "/>
+    <row code="01101" office="Bissel"/>
+    <row code="50206" office="Bokoli"/>
+    <row code="20400" office="Bomet"/>
+    <row code="20101" office="Bondeni"/>
+    <row code="40601" office="Bondo"/>
+    <row code="50137" office="Booker"/>
+    <row code="40620" office="Boro"/>
+    <row code="50245" office="Brigadier"/>
+    <row code="50105" office="Bukura"/>
+    <row code="50109" office="Bulimbo"/>
+    <row code="50404" office="Bumala"/>
+    <row code="50200" office="Bungoma"/>
+    <row code="70104" office="Bura Tana"/>
+    <row code="30102" office="Burnt Forest"/>
+    <row code="00515" office="Buruburu"/>
+    <row code="50400" office="Busia"/>
+    <row code="50101" office="Butere"/>
+    <row code="50405" office="Butula"/>
+    <row code="50210" office="Buyofu"/>
+    <row code="50302" office="Chamakanga"/>
+    <row code="80102" office="Changamwe"/>
+    <row code="50317" office="Chavakali"/>
+    <row code="30706" office="Chebiemit"/>
+    <row code="20215" office="Cheborge"/>
+    <row code="20401" office="Chebunyo"/>
+    <row code="20222" office="Chemamul"/>
+    <row code="20407" office="Chemaner"/>
+    <row code="40116" office="Chemelil"/>
+    <row code="30605" office="Chepareria"/>
+    <row code="30133" office="Chepkoilel"/>
+    <row code="30129" office="Chepkorio"/>
+    <row code="50201" office="Cheptais"/>
+    <row code="20217" office="Chesinendet"/>
+    <row code="60410" office="Chiakanyinga"/>
+    <row code="60409" office="Chiakariga"/>
+    <row code="60401" office="Chogoria"/>
+    <row code="60400" office="Chuka"/>
+    <row code="90147" office="Chumvi"/>
+    <row code="80314" office="Chumvini"/>
+    <row code="50202" office="Chwele"/>
+    <row code="00200" office="City Square"/>
+    <row code="80103" office="Coast Gen. Hospital"/>
+    <row code="70103" office="Dadaab"/>
+    <row code="40112" office="Dago"/>
+    <row code="00516" office="Dandora"/>
+    <row code="40117" office="Daraja Mbili"/>
+    <row code="90145" office="Daystar"/>
+    <row code="80401" office="Diani Beach"/>
+    <row code="80104" office="Docks"/>
+    <row code="10401" office="Doldol"/>
+    <row code="01027" office="Donyosabuk"/>
+    <row code="00610" office="Eastleigh"/>
+    <row code="20115" office="Egerton"/>
+    <row code="90139" office="Ekalakala"/>
+    <row code="20102" office="Elburgon"/>
+    <row code="20103" office="Eldama Ravine"/>
+    <row code="30100" office="Eldoret"/>
+    <row code="70301" office="Elwak"/>
+    <row code="90121" office="Emali"/>
+    <row code="00521" office="Embakasi"/>
+    <row code="60100" office="Embu"/>
+    <row code="50314" office="Emuhaya"/>
+    <row code="10107" office="Endarasha"/>
+    <row code="30201" office="Endebess"/>
+    <row code="00500" office="Enterprise Road"/>
+    <row code="40208" office="Etago"/>
+    <row code="80501" office="Faza"/>
+    <row code="20209" office="Fort Ternan"/>
+    <row code="50406" office="Funyula"/>
+    <row code="00100" office="G.P.O Nairobi"/>
+    <row code="10210" office="Gacharage-Ini"/>
+    <row code="60209" office="Gaitu"/>
+    <row code="10109" office="Gakere Road"/>
+    <row code="10111" office="Gakindu"/>
+    <row code="10239" office="Gakungu"/>
+    <row code="50318" office="Gambogi"/>
+    <row code="80205" office="Ganze"/>
+    <row code="60301" office="Garba Tulla"/>
+    <row code="70100" office="Garissa"/>
+    <row code="80201" office="Garsen"/>
+    <row code="00240" office="Gathugu"/>
+    <row code="10114" office="Gatitu"/>
+    <row code="01028" office="Gatukuyu"/>
+    <row code="01030" office="Gatundu"/>
+    <row code="60404" office="Gatunga"/>
+    <row code="01013" office="Gatura"/>
+    <row code="80208" office="Gede"/>
+    <row code="40503" office="Gesima"/>
+    <row code="40201" office="Gesusu"/>
+    <row code="10108" office="Giakanja"/>
+    <row code="00601" office="Gigiri"/>
+    <row code="10213" office="Gikoe"/>
+    <row code="20116" office="Gilgil"/>
+    <row code="50304" office="Gisambai"/>
+    <row code="60212" office="Gitemene"/>
+    <row code="60205" office="Githongo"/>
+    <row code="00216" office="Githunguri"/>
+    <row code="01003" office="Gituamba"/>
+    <row code="10209" office="Gitugi"/>
+    <row code="80206" office="Gongoni"/>
+    <row code="70202" office="Griftu"/>
+    <row code="70201" office="Habaswein"/>
+    <row code="50312" office="Hamisi"/>
+    <row code="40640" office="Hawinga"/>
+    <row code="70101" office="Hola"/>
+    <row code="40300" office="Homa Bay"/>
+    <row code="30109" office="Huruma"/>
+    <row code="40209" office="Igare"/>
+    <row code="60402" office="Igoji"/>
+    <row code="20307" office="Igwamiti"/>
+    <row code="90120" office="Iiani"/>
+    <row code="90135" office="Ikalaasa"/>
+    <row code="40501" office="Ikonge"/>
+    <row code="90207" office="Ikutha"/>
+    <row code="60405" office="Ikuu"/>
+    <row code="60102" office="Ishiara"/>
+    <row code="40414" office="Isibania"/>
+    <row code="60300" office="Isiolo"/>
+    <row code="30700" office="Iten"/>
+    <row code="01015" office="Ithanga"/>
+    <row code="00501" office="J.K.I. Airport"/>
+    <row code="00101" office="Jamia"/>
+    <row code="20157" office="Kabarak"/>
+    <row code="30400" office="Kabarnet"/>
+    <row code="30401" office="Kabartonjo"/>
+    <row code="90205" office="Kabati"/>
+    <row code="20114" office="Kabazi"/>
+    <row code="02201" office="Kabianga"/>
+    <row code="30303" office="Kabiyet"/>
+    <row code="30601" office="Kacheliba"/>
+    <row code="40223" office="Kadongo"/>
+    <row code="10306" office="Kagio"/>
+    <row code="10307" office="Kagumo"/>
+    <row code="01033" office="Kagundu-Ini"/>
+    <row code="00223" office="Kagwe"/>
+    <row code="20304" office="Kaheho"/>
+    <row code="10206" office="Kahuhia"/>
+    <row code="10201" office="Kahuro"/>
+    <row code="01214" office="Kahuti "/>
+    <row code="50305" office="Kaimosi"/>
+    <row code="01100" office="Kajiado"/>
+    <row code="50100" office="Kakamega"/>
+    <row code="30501" office="Kakuma"/>
+    <row code="50115" office="Kakunga"/>
+    <row code="90122" office="Kalamba"/>
+    <row code="01001" office="Kalimoni"/>
+    <row code="30502" office="Kalokol"/>
+    <row code="80105" office="Kaloleni"/>
+    <row code="20134" office="Kamara"/>
+    <row code="50116" office="Kambiri"/>
+    <row code="10226" office="Kambiti"/>
+    <row code="00607" office="Kamiti"/>
+    <row code="30406" office="Kampi-Ya-Samaki"/>
+    <row code="50216" office="Kamukuywa"/>
+    <row code="50408" office="Kamuriai"/>
+    <row code="90403" office="Kamuwongo"/>
+    <row code="01034" office="Kandara"/>
+    <row code="40304" office="Kandiege"/>
+    <row code="10218" office="Kangari"/>
+    <row code="10202" office="Kangema"/>
+    <row code="00625" office="Kangemi"/>
+    <row code="90115" office="Kangundo"/>
+    <row code="60118" office="Kanja"/>
+    <row code="01004" office="Kanjuku"/>
+    <row code="60206" office="Kanyakine"/>
+    <row code="30304" office="Kapcheno"/>
+    <row code="30204" office="Kapcherop"/>
+    <row code="30600" office="Kapenguria"/>
+    <row code="20214" office="Kapkatet"/>
+    <row code="30300" office="Kapsabet"/>
+    <row code="30208" office="Kapsara"/>
+    <row code="20211" office="Kapsoit"/>
+    <row code="50203" office="Kapsokwony"/>
+    <row code="30705" office="Kapsowar"/>
+    <row code="30114" office="Kaptagat"/>
+    <row code="30701" office="Kaptarakwa"/>
+    <row code="60105" office="Karaba"/>
+    <row code="20328" office="Karandi"/>
+    <row code="10101" office="Karatina"/>
+    <row code="00502" office="Karen"/>
+    <row code="00401" office="Karungu"/>
+    <row code="00219" office="Karuri"/>
+    <row code="60117" office="Karurumo"/>
+    <row code="90123" office="Kasikeu"/>
+    <row code="90106" office="Katangi"/>
+    <row code="90105" office="Kathiani"/>
+    <row code="90302" office="Kathonzweni"/>
+    <row code="60406" office="Kathwana"/>
+    <row code="40118" office="Katito"/>
+    <row code="90107" office="Kaviani"/>
+    <row code="00518" office="Kayole"/>
+    <row code="40506" office="Kebirigo"/>
+    <row code="20220" office="Kedowa"/>
+    <row code="20501" office="Keekorok"/>
+    <row code="40413" office="Kehancha"/>
+    <row code="40301" office="Kendu Bay"/>
+    <row code="80122" office="Kengeleni"/>
+    <row code="01020" office="Kenol"/>
+    <row code="00202" office="Kenyatta N.Hospital"/>
+    <row code="00609" office="Kenyatta University"/>
+    <row code="40211" office="Kenyenya"/>
+    <row code="20200" office="Kericho"/>
+    <row code="20131" office="Keringet"/>
+    <row code="40202" office="Keroka"/>
+    <row code="10300" office="Kerugoya"/>
+    <row code="30215" office="Kesogon"/>
+    <row code="40212" office="Keumbu"/>
+    <row code="50104" office="Khayega"/>
+    <row code="50135" office="Khwisero"/>
+    <row code="10122" office="Kiamariga"/>
+    <row code="00900" office="Kiambu"/>
+    <row code="10309" office="Kiamutugu"/>
+    <row code="60602" office="Kianjai"/>
+    <row code="60122" office="Kianjokoma"/>
+    <row code="10301" office="Kianyaga"/>
+    <row code="60201" office="Kibirichia"/>
+    <row code="90137" office="Kibwezi"/>
+    <row code="10102" office="Kiganjo"/>
+    <row code="10203" office="Kigumo"/>
+    <row code="10207" office="Kihoya"/>
+    <row code="60207" office="Kiirua"/>
+    <row code="00220" office="Kijabe"/>
+    <row code="90125" office="Kikima"/>
+    <row code="80410" office="Kikoneni"/>
+    <row code="00902" office="Kikuyu"/>
+    <row code="90305" office="Kilala"/>
+    <row code="40700" office="Kilgoris"/>
+    <row code="80108" office="Kilifi"/>
+    <row code="80107" office="Kilindini"/>
+    <row code="50315" office="Kilingili"/>
+    <row code="10140" office="Kimathi Way"/>
+    <row code="10310" office="Kimbimbi"/>
+    <row code="50204" office="Kimilili"/>
+    <row code="30209" office="Kiminini"/>
+    <row code="20225" office="Kimulot"/>
+    <row code="30128" office="Kimwarer"/>
+    <row code="20320" office="Kinamba"/>
+    <row code="80405" office="Kinango"/>
+    <row code="00227" office="Kinari"/>
+    <row code="01031" office="Kindaruma"/>
+    <row code="60216" office="Kinoru"/>
+    <row code="60211" office="Kionyo"/>
+    <row code="30103" office="Kipkabus"/>
+    <row code="50241" office="Kipkarren River"/>
+    <row code="20202" office="Kipkelion"/>
+    <row code="20133" office="Kiptangwanyi"/>
+    <row code="20213" office="Kiptere"/>
+    <row code="20208" office="Kiptugumo"/>
+    <row code="10204" office="Kiriaini"/>
+    <row code="60113" office="Kiritiri"/>
+    <row code="50313" office="Kiritu"/>
+    <row code="01018" office="Kirwara"/>
+    <row code="90204" office="Kisasi"/>
+    <row code="00206" office="Kiserian"/>
+    <row code="40200" office="Kisii"/>
+    <row code="40100" office="Kisumu"/>
+    <row code="30200" office="Kitale"/>
+    <row code="00241" office="Kitengela"/>
+    <row code="90124" office="Kithimani"/>
+    <row code="60114" office="Kithimu"/>
+    <row code="90144" office="Kithyoko"/>
+    <row code="90303" office="Kitise"/>
+    <row code="90200" office="Kitui"/>
+    <row code="90111" office="Kivunga"/>
+    <row code="30305" office="Kobujoi"/>
+    <row code="90108" office="Kola"/>
+    <row code="40102" office="Kombewa"/>
+    <row code="40103" office="Kondele"/>
+    <row code="10234" office="Kora"/>
+    <row code="40104" office="Koru"/>
+    <row code="04332" office="Kosele"/>
+    <row code="50117" office="Koyonzo"/>
+    <row code="60125" office="Kubu Kubu"/>
+    <row code="10304" office="Kutus"/>
+    <row code="80403" office="Kwale"/>
+    <row code="90220" office="Kyatune"/>
+    <row code="90209" office="Kyeni"/>
+    <row code="90401" office="Kyuso"/>
+    <row code="60601" office="Laare"/>
+    <row code="20330" office="Laikipia Campus"/>
+    <row code="60502" office="Laisamis"/>
+    <row code="80500" office="Lamu"/>
+    <row code="20112" office="Lanet"/>
+    <row code="30112" office="Langas"/>
+    <row code="00509" office="Langata"/>
+    <row code="00603" office="Lavington"/>
+    <row code="30302" office="Lessos"/>
+    <row code="80110" office="Likoni"/>
+    <row code="00217" office="Limuru"/>
+    <row code="20210" office="Litein"/>
+    <row code="30500" office="Lodwar"/>
+    <row code="00209" office="Loitokitok"/>
+    <row code="60501" office="Loiyangalani"/>
+    <row code="30503" office="Lokichoggio"/>
+    <row code="30504" office="Lokitaung"/>
+    <row code="40701" office="Lolgorian"/>
+    <row code="20203" office="Londiani"/>
+    <row code="20402" office="Longisa"/>
+    <row code="00604" office="Lower Kabete"/>
+    <row code="50307" office="Luanda"/>
+    <row code="50240" office="Luandeti"/>
+    <row code="50118" office="Lubao"/>
+    <row code="50108" office="Lugari"/>
+    <row code="50218" office="Lugulu"/>
+    <row code="40623" office="Luhano"/>
+    <row code="50230" office="Lukusi"/>
+    <row code="50242" office="Lumakanda"/>
+    <row code="80402" office="Lunga Lunga"/>
+    <row code="50119" office="Lunza"/>
+    <row code="50220" office="Lwakhakha"/>
+    <row code="20147" office="Maai Mahiu"/>
+    <row code="50235" office="Mabusi"/>
+    <row code="90100" office="Machakos"/>
+    <row code="01002" office="Madaraka"/>
+    <row code="40613" office="Madiany"/>
+    <row code="80207" office="Madina"/>
+    <row code="00205" office="Magadi"/>
+    <row code="40516" office="Magena"/>
+    <row code="50325" office="Mago"/>
+    <row code="40507" office="Magombo"/>
+    <row code="60403" office="Magumoni"/>
+    <row code="40307" office="Magunga"/>
+    <row code="60407" office="Magutuni"/>
+    <row code="40508" office="Magwagwa"/>
+    <row code="90138" office="Makindu"/>
+    <row code="00510" office="Makongeni"/>
+    <row code="90300" office="Makueni"/>
+    <row code="80112" office="Makupa"/>
+    <row code="50209" office="Malakisi"/>
+    <row code="50103" office="Malava"/>
+    <row code="80200" office="Malindi"/>
+    <row code="70300" office="Mandera"/>
+    <row code="60101" office="Manyatta"/>
+    <row code="50300" office="Maragoli"/>
+    <row code="10205" office="Maragua"/>
+    <row code="20600" office="Maralal"/>
+    <row code="80113" office="Mariakani"/>
+    <row code="30403" office="Marigat"/>
+    <row code="60408" office="Marima"/>
+    <row code="60215" office="Marimanti"/>
+    <row code="20322" office="Marmanet"/>
+    <row code="60500" office="Marsabit"/>
+    <row code="70105" office="Masalani"/>
+    <row code="40105" office="Maseno"/>
+    <row code="01103" office="Mashuru"/>
+    <row code="90101" office="Masii"/>
+    <row code="90141" office="Masinga"/>
+    <row code="00221" office="Matathia"/>
+    <row code="00611" office="Mathare Valley"/>
+    <row code="90140" office="Matiliku"/>
+    <row code="80406" office="Matuga"/>
+    <row code="30205" office="Matunda"/>
+    <row code="90119" office="Matuu"/>
+    <row code="60600" office="Maua"/>
+    <row code="80317" office="Maungu"/>
+    <row code="90304" office="Mavindini"/>
+    <row code="40310" office="Mawego"/>
+    <row code="80114" office="Mazeras"/>
+    <row code="00503" office="Mbagathi"/>
+    <row code="10233" office="Mbiri"/>
+    <row code="40305" office="Mbita"/>
+    <row code="90214" office="Mbitini"/>
+    <row code="90110" office="Mbiuni"/>
+    <row code="90127" office="Mbumbuni"/>
+    <row code="00504" office="Mchumbi Rd"/>
+    <row code="40123" office="Mega City"/>
+    <row code="20104" office="Menengai"/>
+    <row code="60303" office="Merti"/>
+    <row code="60200" office="Meru"/>
+    <row code="40319" office="Mfangano"/>
+    <row code="80313" office="Mgambonyi"/>
+    <row code="80306" office="Mgange"/>
+    <row code="60604" office="Miathene"/>
+    <row code="90402" office="Migwani"/>
+    <row code="20301" office="Miharati"/>
+    <row code="60607" office="Mikinduri"/>
+    <row code="50138" office="Milimani"/>
+    <row code="20123" office="Milton Siding"/>
+    <row code="20124" office="Mirangine"/>
+    <row code="40320" office="Mirogi"/>
+    <row code="50207" office="Misikhu"/>
+    <row code="90104" office="Mitaboni"/>
+    <row code="60204" office="Mitunguu"/>
+    <row code="90112" office="Miu"/>
+    <row code="80106" office="Mkomani"/>
+    <row code="00519" office="Mlolongo"/>
+    <row code="00620" office="Mobil Plaza"/>
+    <row code="70102" office="Modo Gashe"/>
+    <row code="20403" office="Mogogosiek"/>
+    <row code="20105" office="Mogotio"/>
+    <row code="80115" office="Moi Airport"/>
+    <row code="30107" office="Moi University"/>
+    <row code="30202" office="Mois Bridge"/>
+    <row code="30104" office="Moiben"/>
+    <row code="40510" office="Mokomoni"/>
+    <row code="80502" office="Mokowe"/>
+    <row code="20106" office="Molo"/>
+    <row code="80100" office="Mombasa G.P.O"/>
+    <row code="30307" office="Mosoriot"/>
+    <row code="60700" office="Moyale"/>
+    <row code="80503" office="Mpeketoni"/>
+    <row code="80404" office="Msambweni"/>
+    <row code="90128" office="Mtitu Andei"/>
+    <row code="80111" office="Mtongwe"/>
+    <row code="80117" office="Mtopanga"/>
+    <row code="80109" office="Mtwapa"/>
+    <row code="50423" office="Mubwayo"/>
+    <row code="10129" office="Mugunda"/>
+    <row code="40107" office="Muhoroni"/>
+    <row code="40409" office="Muhuru Bay"/>
+    <row code="50225" office="Mukhe"/>
+    <row code="10103" office="Mukurweini"/>
+    <row code="50102" office="Mumias"/>
+    <row code="10200" office="Muranga"/>
+    <row code="50125" office="Musanda"/>
+    <row code="90211" office="Mutha"/>
+    <row code="00619" office="Muthaiga"/>
+    <row code="60605" office="Muthara"/>
+    <row code="90113" office="Muthetheni"/>
+    <row code="90117" office="Mutituni"/>
+    <row code="90201" office="Mutomo"/>
+    <row code="40628" office="Mutumbu"/>
+    <row code="90102" office="Mwala"/>
+    <row code="80305" office="Mwatate"/>
+    <row code="10104" office="Mweiga"/>
+    <row code="90400" office="Mwingi"/>
+    <row code="50226" office="Myanga"/>
+    <row code="20504" office="Nairage Enkare"/>
+    <row code="20142" office="Naishi"/>
+    <row code="50211" office="Naitiri"/>
+    <row code="20117" office="Naivasha"/>
+    <row code="20100" office="Nakuru"/>
+    <row code="00207" office="Namanga"/>
+    <row code="50127" office="Nambacha"/>
+    <row code="50409" office="Nambale"/>
+    <row code="30301" office="Nandi Hills"/>
+    <row code="40615" office="Nango"/>
+    <row code="10400" office="Nanyuki"/>
+    <row code="10105" office="Naro Moru"/>
+    <row code="20500" office="Narok"/>
+    <row code="90118" office="Ndalani"/>
+    <row code="50212" office="Ndalu"/>
+    <row code="20404" office="Ndanai"/>
+    <row code="20306" office="Ndaragwa"/>
+    <row code="00229" office="Nderu"/>
+    <row code="40302" office="Ndhiwa"/>
+    <row code="01016" office="Ndithini"/>
+    <row code="90202" office="Ndooa"/>
+    <row code="40602" office="Ndori"/>
+    <row code="20317" office="Ndunyu Njeru"/>
+    <row code="80311" office="Ngambwa"/>
+    <row code="40603" office="Ngiya"/>
+    <row code="00600" office="Ngara Road"/>
+    <row code="00218" office="Ngecha"/>
+    <row code="00901" office="Ngewa"/>
+    <row code="30404" office="Nginyang"/>
+    <row code="00208" office="Ngong Hills"/>
+    <row code="00505" office="Ngong Road"/>
+    <row code="90407" office="Nguni"/>
+    <row code="90129" office="Ngwata"/>
+    <row code="20107" office="Njoro"/>
+    <row code="60214" office="Nkondi"/>
+    <row code="60202" office="Nkubu"/>
+    <row code="20318" office="North-Kinangop"/>
+    <row code="90130" office="Nunguni"/>
+    <row code="40124" office="Nyabondo"/>
+    <row code="20300" office="Nyahururu"/>
+    <row code="80118" office="Nyali."/>
+    <row code="40203" office="Nyamache"/>
+    <row code="40206" office="Nyamarambe"/>
+    <row code="40205" office="Nyambunwa"/>
+    <row code="40500" office="Nyamira"/>
+    <row code="40632" office="Nyamonye"/>
+    <row code="40333" office="Nyandhiwa"/>
+    <row code="40126" office="Nyangande"/>
+    <row code="40127" office="Nyangori"/>
+    <row code="40218" office="Nyangusu"/>
+    <row code="40311" office="Nyangweso"/>
+    <row code="40502" office="Nyansiongo"/>
+    <row code="40514" office="Nyaramba"/>
+    <row code="40402" office="Nyatike"/>
+    <row code="00506" office="Nyayo Stadium"/>
+    <row code="10100" office="Nyeri"/>
+    <row code="40611" office="Nyilima"/>
+    <row code="90136" office="Nzeeka"/>
+    <row code="90143" office="Nziu"/>
+    <row code="40204" office="Ogembo"/>
+    <row code="40323" office="Ogongo"/>
+    <row code="90301" office="Okia"/>
+    <row code="20303" office="Ol-Kalou"/>
+    <row code="20302" office="Oljoro-Orok"/>
+    <row code="20503" office="Ololulunga"/>
+    <row code="20152" office="Olenguruone"/>
+    <row code="40221" office="Omogonchoro"/>
+    <row code="00511" office="Ongata Rongai"/>
+    <row code="30602" office="Ortum"/>
+    <row code="10106" office="Othaya"/>
+    <row code="40222" office="Oyugis"/>
+    <row code="40111" office="Pap-Onditi"/>
+    <row code="00623" office="Parklands"/>
+    <row code="40131" office="Paw Akuche"/>
+    <row code="50410" office="Port Victoria"/>
+    <row code="40132" office="Rabuor"/>
+    <row code="40604" office="Ragengni"/>
+    <row code="40412" office="Ranen"/>
+    <row code="40303" office="Rangwe"/>
+    <row code="40403" office="Rapogi"/>
+    <row code="40137" office="Ratta"/>
+    <row code="40133" office="Reru"/>
+    <row code="70302" office="Rhamu"/>
+    <row code="40511" office="Rigoma"/>
+    <row code="40512" office="Riochanda"/>
+    <row code="40220" office="Riosiri"/>
+    <row code="40326" office="Rodi Kopany"/>
+    <row code="00300" office="Ronald Ngala St"/>
+    <row code="20108" office="Rongai"/>
+    <row code="40404" office="Rongo"/>
+    <row code="20204" office="Roret"/>
+    <row code="00520" office="Ruai"/>
+    <row code="00618" office="Ruaraka"/>
+    <row code="00232" office="Ruiru"/>
+    <row code="20321" office="Rumuruti"/>
+    <row code="60103" office="Runyenjes"/>
+    <row code="20313" office="Rurii"/>
+    <row code="10133" office="Ruringu"/>
+    <row code="10208" office="Saba-Saba"/>
+    <row code="80308" office="Sagalla"/>
+    <row code="10230" office="Sagana"/>
+    <row code="80120" office="Samburu"/>
+    <row code="40405" office="Sare"/>
+    <row code="00606" office="Sarit Centre"/>
+    <row code="40612" office="Sawagongo"/>
+    <row code="40614" office="Sega"/>
+    <row code="50308" office="Serem"/>
+    <row code="30407" office="Seretunin"/>
+    <row code="50106" office="Shianda"/>
+    <row code="80407" office="Shimba Hills"/>
+    <row code="80409" office="Shimoni"/>
+    <row code="50107" office="Shinyalu"/>
+    <row code="60104" office="Siakago"/>
+    <row code="40600" office="Siaya"/>
+    <row code="40605" office="Sidindi"/>
+    <row code="40635" office="Sigomre"/>
+    <row code="20405" office="Sigor"/>
+    <row code="20422" office="Silibwet"/>
+    <row code="40308" office="Sindo"/>
+    <row code="20423" office="Siongiroi"/>
+    <row code="50208" office="Sirisia"/>
+    <row code="20128" office="Solai"/>
+    <row code="40109" office="Sondu"/>
+    <row code="40110" office="Songhor"/>
+    <row code="20205" office="Sosiot"/>
+    <row code="20406" office="Sotik"/>
+    <row code="20319" office="South-Kinangop"/>
+    <row code="30105" office="Soy"/>
+    <row code="40418" office="Suba-Kuria"/>
+    <row code="20109" office="Subukia"/>
+    <row code="20602" office="Suguta Mar Mar"/>
+    <row code="20151" office="Sulmac"/>
+    <row code="90132" office="Sultan Hamud"/>
+    <row code="40400" office="Suna"/>
+    <row code="40229" office="Tabaka"/>
+    <row code="70303" office="Takaba"/>
+    <row code="09013" office="Tala"/>
+    <row code="30704" office="Tambach"/>
+    <row code="80309" office="Tausa"/>
+    <row code="80302" office="Taveta"/>
+    <row code="90133" office="Tawa"/>
+    <row code="30405" office="Tenges"/>
+    <row code="01000" office="Thika"/>
+    <row code="10406" office="Timau"/>
+    <row code="20110" office="Timber Mills"/>
+    <row code="30108" office="Timboroa"/>
+    <row code="50309" office="Tiriki"/>
+    <row code="00400" office="Tom Mboya St"/>
+    <row code="30707" office="Tot"/>
+    <row code="90203" office="Tulia"/>
+    <row code="60213" office="Tunyai"/>
+    <row code="30106" office="Turbo"/>
+    <row code="40606" office="Ugunja"/>
+    <row code="00517" office="Uhuru Gardens"/>
+    <row code="80400" office="Ukunda"/>
+    <row code="40607" office="Ukwala"/>
+    <row code="00222" office="Uplands"/>
+    <row code="40608" office="Uranga"/>
+    <row code="40228" office="Uriri"/>
+    <row code="40609" office="Usenge"/>
+    <row code="00605" office="Uthiru"/>
+    <row code="50310" office="Vihiga"/>
+    <row code="00621" office="Village Market"/>
+    <row code="80119" office="Vipingo"/>
+    <row code="80211" office="Vitengeni"/>
+    <row code="00507" office="Viwandani"/>
+    <row code="80300" office="Voi"/>
+    <row code="60121" office="Wachoro"/>
+    <row code="70200" office="Wajir"/>
+    <row code="20603" office="Wamba"/>
+    <row code="90103" office="Wamunyu"/>
+    <row code="00614" office="Wangige"/>
+    <row code="10303" office="Wanguru"/>
+    <row code="20305" office="Wanjohi"/>
+    <row code="80202" office="Watamu"/>
+    <row code="50205" office="Webuye"/>
+    <row code="30603" office="Wei-Wei"/>
+    <row code="80303" office="Werugha"/>
+    <row code="00800" office="Westlands"/>
+    <row code="40141" office="Winam (Kisumu Gpo Extn.)"/>
+    <row code="80504" office="Witu"/>
+    <row code="50311" office="Wodanga"/>
+    <row code="80304" office="Wundanyi"/>
+    <row code="40610" office="Yala"/>
+    <row code="00508" office="Yaya Towers"/>
+    <row code="90134" office="Yoani"/>
+    <row code="30214" office="Ziwa"/>
+    <row code="90213" office="Zombe"/>
+</rows>
