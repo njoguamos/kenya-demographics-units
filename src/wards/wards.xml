@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row constituency_code="1" code="1" name="Port Reitz"/>
+    <row constituency_code="1" code="2" name="Kipevu"/>
+    <row constituency_code="1" code="3" name="Airport"/>
+    <row constituency_code="1" code="4" name="Changamwe"/>
+    <row constituency_code="1" code="5" name="Chaani"/>
+    <row constituency_code="2" code="6" name="Jomvu Kuu"/>
+    <row constituency_code="2" code="7" name="Miritini"/>
+    <row constituency_code="2" code="8" name="Mikindani"/>
+    <row constituency_code="3" code="9" name="Mjambere"/>
+    <row constituency_code="3" code="10" name="Junda"/>
+    <row constituency_code="3" code="11" name="Bamburi"/>
+    <row constituency_code="3" code="12" name="Mwakirunge"/>
+    <row constituency_code="3" code="13" name="Mtopanga"/>
+    <row constituency_code="3" code="14" name="Magogoni"/>
+    <row constituency_code="3" code="15" name="Shanzu"/>
+    <row constituency_code="4" code="16" name="Frere Town"/>
+    <row constituency_code="4" code="17" name="Ziwa La Ng'ombe"/>
+    <row constituency_code="4" code="18" name="Mkomani"/>
+    <row constituency_code="4" code="19" name="Kongowea"/>
+    <row constituency_code="4" code="20" name="Kadzandani"/>
+    <row constituency_code="5" code="21" name="Mtongwe"/>
+    <row constituency_code="5" code="22" name="Shika Adabu"/>
+    <row constituency_code="5" code="23" name="Bofu"/>
+    <row constituency_code="5" code="24" name="Likoni"/>
+    <row constituency_code="5" code="25" name="Timbwani"/>
+    <row constituency_code="6" code="26" name="Mji Wa Kale/Makadara"/>
+    <row constituency_code="6" code="27" name="Tudor"/>
+    <row constituency_code="6" code="28" name="Tononoka"/>
+    <row constituency_code="6" code="29" name="Shimanzi/Ganjoni"/>
+    <row constituency_code="6" code="30" name="Majengo"/>
+    <row constituency_code="7" code="31" name="Gombato Bongwe"/>
+    <row constituency_code="7" code="32" name="Ukunda"/>
+    <row constituency_code="7" code="33" name="Kinondo"/>
+    <row constituency_code="7" code="34" name="Ramisi"/>
+    <row constituency_code="8" code="35" name="Pongwe/Kikoneni"/>
+    <row constituency_code="8" code="36" name="Dzombo"/>
+    <row constituency_code="8" code="37" name="Mwereni"/>
+    <row constituency_code="8" code="38" name="Vanga"/>
+    <row constituency_code="9" code="39" name="Tsimba Golini"/>
+    <row constituency_code="9" code="40" name="Waa"/>
+    <row constituency_code="9" code="41" name="Tiwi"/>
+    <row constituency_code="9" code="42" name="Kubo South"/>
+    <row constituency_code="9" code="43" name="Mkongani"/>
+    <row constituency_code="10" code="44" name="Ndavaya"/>
+    <row constituency_code="10" code="45" name="Puma"/>
+    <row constituency_code="10" code="46" name="Kinango"/>
+    <row constituency_code="10" code="47" name="Mackinnon Road"/>
+    <row constituency_code="10" code="48" name="Chengoni/Samburu"/>
+    <row constituency_code="10" code="49" name="Mwavumbo"/>
+    <row constituency_code="10" code="50" name="Kasemeni"/>
+    <row constituency_code="11" code="51" name="Tezo"/>
+    <row constituency_code="11" code="52" name="Sokoni"/>
+    <row constituency_code="11" code="53" name="Kibarani"/>
+    <row constituency_code="11" code="54" name="Dabaso"/>
+    <row constituency_code="11" code="55" name="Matsangoni"/>
+    <row constituency_code="11" code="56" name="Watamu"/>
+    <row constituency_code="11" code="57" name="Mnarani"/>
+    <row constituency_code="12" code="58" name="Junju"/>
+    <row constituency_code="12" code="59" name="Mwarakaya"/>
+    <row constituency_code="12" code="60" name="Shimo La Tewa"/>
+    <row constituency_code="12" code="61" name="Chasimba"/>
+    <row constituency_code="12" code="62" name="Mtepeni"/>
+    <row constituency_code="13" code="63" name="Mariakani"/>
+    <row constituency_code="13" code="64" name="Kayafungo"/>
+    <row constituency_code="13" code="65" name="Kaloleni"/>
+    <row constituency_code="13" code="66" name="Mwanamwinga"/>
+    <row constituency_code="14" code="67" name="Mwawesa"/>
+    <row constituency_code="14" code="68" name="Ruruma"/>
+    <row constituency_code="14" code="69" name="Kambe/Ribe"/>
+    <row constituency_code="14" code="70" name="Rabai/Kisurutini"/>
+    <row constituency_code="15" code="71" name="Ganze"/>
+    <row constituency_code="15" code="72" name="Bamba"/>
+    <row constituency_code="15" code="73" name="Jaribuni"/>
+    <row constituency_code="15" code="74" name="Sokoke"/>
+    <row constituency_code="16" code="75" name="Jilore"/>
+    <row constituency_code="16" code="76" name="Kakuyuni"/>
+    <row constituency_code="16" code="77" name="Ganda"/>
+    <row constituency_code="16" code="78" name="Malindi Town"/>
+    <row constituency_code="16" code="79" name="Shella"/>
+    <row constituency_code="17" code="80" name="Marafa"/>
+    <row constituency_code="17" code="81" name="Magarini"/>
+    <row constituency_code="17" code="82" name="Gongoni"/>
+    <row constituency_code="17" code="83" name="Adu"/>
+    <row constituency_code="17" code="84" name="Garashi"/>
+    <row constituency_code="17" code="85" name="Sabaki"/>
+    <row constituency_code="18" code="86" name="Kipini East"/>
+    <row constituency_code="18" code="87" name="Garsen South"/>
+    <row constituency_code="18" code="88" name="Kipini West"/>
+    <row constituency_code="18" code="89" name="Garsen Central"/>
+    <row constituency_code="18" code="90" name="Garsen West"/>
+    <row constituency_code="18" code="91" name="Garsen North"/>
+    <row constituency_code="19" code="92" name="Kinakomba"/>
+    <row constituency_code="19" code="93" name="Mikinduni"/>
+    <row constituency_code="19" code="94" name="Chewani"/>
+    <row constituency_code="19" code="95" name="Wayu"/>
+    <row constituency_code="20" code="96" name="Chewele"/>
+    <row constituency_code="20" code="97" name="Hirimani"/>
+    <row constituency_code="20" code="98" name="Bangale"/>
+    <row constituency_code="20" code="99" name="Sala"/>
+    <row constituency_code="20" code="100" name="Madogo"/>
+    <row constituency_code="21" code="101" name="Faza"/>
+    <row constituency_code="21" code="102" name="Kiunga"/>
+    <row constituency_code="21" code="103" name="Basuba"/>
+    <row constituency_code="22" code="104" name="Shella"/>
+    <row constituency_code="22" code="105" name="Mkomani"/>
+    <row constituency_code="22" code="106" name="Hindi"/>
+    <row constituency_code="22" code="107" name="Mkunumbi"/>
+    <row constituency_code="22" code="108" name="Hongwe"/>
+    <row constituency_code="22" code="109" name="Witu"/>
+    <row constituency_code="22" code="110" name="Bahari"/>
+    <row constituency_code="23" code="111" name="Chala"/>
+    <row constituency_code="23" code="112" name="Mahoo"/>
+    <row constituency_code="23" code="113" name="Bomani"/>
+    <row constituency_code="23" code="114" name="Mboghoni"/>
+    <row constituency_code="23" code="115" name="Mata"/>
+    <row constituency_code="24" code="116" name="Wundanyi/Mbale"/>
+    <row constituency_code="24" code="117" name="Werugha"/>
+    <row constituency_code="24" code="118" name="Wumingu/Kishushe"/>
+    <row constituency_code="24" code="119" name="Mwanda/Mgange"/>
+    <row constituency_code="25" code="120" name="Rong'e"/>
+    <row constituency_code="25" code="121" name="Mwatate"/>
+    <row constituency_code="25" code="122" name="Bura"/>
+    <row constituency_code="25" code="123" name="Chawia"/>
+    <row constituency_code="25" code="124" name="Wusi/Kishamba"/>
+    <row constituency_code="26" code="125" name="Mbololo"/>
+    <row constituency_code="26" code="126" name="Sagalla"/>
+    <row constituency_code="26" code="127" name="Kaloleni"/>
+    <row constituency_code="26" code="128" name="Marungu"/>
+    <row constituency_code="26" code="129" name="Kasigau"/>
+    <row constituency_code="26" code="130" name="Ngolia"/>
+    <row constituency_code="27" code="131" name="Waberi"/>
+    <row constituency_code="27" code="132" name="Galbet"/>
+    <row constituency_code="27" code="133" name="Township"/>
+    <row constituency_code="27" code="134" name="Iftin"/>
+    <row constituency_code="28" code="135" name="Balambala"/>
+    <row constituency_code="28" code="136" name="Danyere"/>
+    <row constituency_code="28" code="137" name="Jara Jara"/>
+    <row constituency_code="28" code="138" name="Saka"/>
+    <row constituency_code="28" code="139" name="Sankuri"/>
+    <row constituency_code="29" code="140" name="Modogashe"/>
+    <row constituency_code="29" code="141" name="Benane"/>
+    <row constituency_code="29" code="142" name="Goreale"/>
+    <row constituency_code="29" code="143" name="Maalimin"/>
+    <row constituency_code="29" code="144" name="Sabena"/>
+    <row constituency_code="29" code="145" name="Baraki"/>
+    <row constituency_code="30" code="146" name="Dertu"/>
+    <row constituency_code="30" code="147" name="Dadaab"/>
+    <row constituency_code="30" code="148" name="Labasigale"/>
+    <row constituency_code="30" code="149" name="Damajale"/>
+    <row constituency_code="30" code="150" name="Liboi"/>
+    <row constituency_code="30" code="151" name="Abakaile"/>
+    <row constituency_code="31" code="152" name="Bura"/>
+    <row constituency_code="31" code="153" name="Dekaharia"/>
+    <row constituency_code="31" code="154" name="Jarajila"/>
+    <row constituency_code="31" code="155" name="Fafi"/>
+    <row constituency_code="31" code="156" name="Nanighi"/>
+    <row constituency_code="32" code="157" name="Hulugho"/>
+    <row constituency_code="32" code="158" name="Sangailu"/>
+    <row constituency_code="32" code="159" name="Ijara"/>
+    <row constituency_code="32" code="160" name="Masalani"/>
+    <row constituency_code="33" code="161" name="Gurar"/>
+    <row constituency_code="33" code="162" name="Bute"/>
+    <row constituency_code="33" code="163" name="Korondile"/>
+    <row constituency_code="33" code="164" name="Malkagufu"/>
+    <row constituency_code="33" code="165" name="Batalu"/>
+    <row constituency_code="33" code="166" name="Danaba"/>
+    <row constituency_code="33" code="167" name="Godoma"/>
+    <row constituency_code="34" code="168" name="Wagberi"/>
+    <row constituency_code="34" code="169" name="Township"/>
+    <row constituency_code="34" code="170" name="Barwago"/>
+    <row constituency_code="34" code="171" name="Khorof/Harar"/>
+    <row constituency_code="35" code="172" name="Elben"/>
+    <row constituency_code="35" code="173" name="Sarman"/>
+    <row constituency_code="35" code="174" name="Tarbaj"/>
+    <row constituency_code="35" code="175" name="Wargadud"/>
+    <row constituency_code="36" code="176" name="Arbajahan"/>
+    <row constituency_code="36" code="177" name="Hadado/Athibohol"/>
+    <row constituency_code="36" code="178" name="Adamasajide"/>
+    <row constituency_code="36" code="179" name="Ganyure/Wagalla"/>
+    <row constituency_code="37" code="180" name="Eldas"/>
+    <row constituency_code="37" code="181" name="Della"/>
+    <row constituency_code="37" code="182" name="Lakoley South/Basir"/>
+    <row constituency_code="37" code="183" name="Elnur/Tula Tula"/>
+    <row constituency_code="38" code="184" name="Benane"/>
+    <row constituency_code="38" code="185" name="Burder"/>
+    <row constituency_code="38" code="186" name="Dadaja Bulla"/>
+    <row constituency_code="38" code="187" name="Habasswein"/>
+    <row constituency_code="38" code="188" name="Lagboghol South"/>
+    <row constituency_code="38" code="189" name="Ibrahim Ure"/>
+    <row constituency_code="38" code="190" name="Diif"/>
+    <row constituency_code="39" code="191" name="Takaba South"/>
+    <row constituency_code="39" code="192" name="Takaba"/>
+    <row constituency_code="39" code="193" name="Lagsure"/>
+    <row constituency_code="39" code="194" name="Dandu"/>
+    <row constituency_code="39" code="195" name="Gither"/>
+    <row constituency_code="40" code="196" name="Banissa"/>
+    <row constituency_code="40" code="197" name="Derkhale"/>
+    <row constituency_code="40" code="198" name="Guba"/>
+    <row constituency_code="40" code="199" name="Malkamari"/>
+    <row constituency_code="40" code="200" name="Kiliwehiri"/>
+    <row constituency_code="41" code="201" name="Ashabito"/>
+    <row constituency_code="41" code="202" name="Guticha"/>
+    <row constituency_code="41" code="203" name="Morothile"/>
+    <row constituency_code="41" code="204" name="Rhamu"/>
+    <row constituency_code="41" code="205" name="Rhamu-Dimtu"/>
+    <row constituency_code="42" code="206" name="Wargadud"/>
+    <row constituency_code="42" code="207" name="Kutulo"/>
+    <row constituency_code="42" code="208" name="Elwak South"/>
+    <row constituency_code="42" code="209" name="Elwak North"/>
+    <row constituency_code="42" code="210" name="Shimbir Fatuma"/>
+    <row constituency_code="43" code="211" name="Arabia"/>
+    <row constituency_code="43" code="212" name="Township"/>
+    <row constituency_code="43" code="213" name="Neboi"/>
+    <row constituency_code="43" code="214" name="Khalalio"/>
+    <row constituency_code="43" code="215" name="Libehia"/>
+    <row constituency_code="44" code="216" name="Sala"/>
+    <row constituency_code="44" code="217" name="Fino"/>
+    <row constituency_code="44" code="218" name="Lafey"/>
+    <row constituency_code="44" code="219" name="Waranqara"/>
+    <row constituency_code="44" code="220" name="Alango Gof"/>
+    <row constituency_code="45" code="221" name="Butiye"/>
+    <row constituency_code="45" code="222" name="Sololo"/>
+    <row constituency_code="45" code="223" name="Heillu/Manyatta"/>
+    <row constituency_code="45" code="224" name="Golbo"/>
+    <row constituency_code="45" code="225" name="Moyale Township"/>
+    <row constituency_code="45" code="226" name="Uran"/>
+    <row constituency_code="45" code="227" name="Obbu"/>
+    <row constituency_code="46" code="228" name="Dukana"/>
+    <row constituency_code="46" code="229" name="Maikona"/>
+    <row constituency_code="46" code="230" name="Turbi"/>
+    <row constituency_code="46" code="231" name="North Horr"/>
+    <row constituency_code="46" code="232" name="Illeret"/>
+    <row constituency_code="47" code="233" name="Sagante/Jaldesa"/>
+    <row constituency_code="47" code="234" name="Karare"/>
+    <row constituency_code="47" code="235" name="Marsabit Central"/>
+    <row constituency_code="48" code="236" name="Loiyangalani"/>
+    <row constituency_code="48" code="237" name="Kargi/South Horr"/>
+    <row constituency_code="48" code="238" name="Korr/Ngurunit"/>
+    <row constituency_code="48" code="239" name="Logo Logo"/>
+    <row constituency_code="48" code="240" name="Laisamis"/>
+    <row constituency_code="49" code="241" name="Wabera"/>
+    <row constituency_code="49" code="242" name="Bulla Pesa"/>
+    <row constituency_code="49" code="243" name="Chari"/>
+    <row constituency_code="49" code="244" name="Cherab"/>
+    <row constituency_code="49" code="245" name="Ngare Mara"/>
+    <row constituency_code="49" code="246" name="Burat"/>
+    <row constituency_code="49" code="247" name="Oldo/Nyiro"/>
+    <row constituency_code="50" code="248" name="Garbatulla"/>
+    <row constituency_code="50" code="249" name="Kinna"/>
+    <row constituency_code="50" code="250" name="Sericho"/>
+    <row constituency_code="51" code="251" name="Maua"/>
+    <row constituency_code="51" code="252" name="Kiegoi/Antubochiu"/>
+    <row constituency_code="51" code="253" name="Athiru Gaiti"/>
+    <row constituency_code="51" code="254" name="Akachiu"/>
+    <row constituency_code="51" code="255" name="Kanuni"/>
+    <row constituency_code="52" code="256" name="Akirang'Ondu"/>
+    <row constituency_code="52" code="257" name="Athiru Ruujine"/>
+    <row constituency_code="52" code="258" name="Igembe East"/>
+    <row constituency_code="52" code="259" name="Njia"/>
+    <row constituency_code="52" code="260" name="Kangeta"/>
+    <row constituency_code="53" code="261" name="Antuambui"/>
+    <row constituency_code="53" code="262" name="Ntunene"/>
+    <row constituency_code="53" code="263" name="Antubetwe Kiongo"/>
+    <row constituency_code="53" code="264" name="Naathu"/>
+    <row constituency_code="53" code="265" name="Amwathi"/>
+    <row constituency_code="54" code="266" name="Athwana"/>
+    <row constituency_code="54" code="267" name="Akithii"/>
+    <row constituency_code="54" code="268" name="Kianjai"/>
+    <row constituency_code="54" code="269" name="Nkomo"/>
+    <row constituency_code="54" code="270" name="Mbeu"/>
+    <row constituency_code="55" code="271" name="Thangatha"/>
+    <row constituency_code="55" code="272" name="Mikinduri"/>
+    <row constituency_code="55" code="273" name="Kiguchwa"/>
+    <row constituency_code="55" code="274" name="Muthara"/>
+    <row constituency_code="55" code="275" name="Karama"/>
+    <row constituency_code="56" code="276" name="Municipality"/>
+    <row constituency_code="56" code="277" name="Ntima East"/>
+    <row constituency_code="56" code="278" name="Ntima West"/>
+    <row constituency_code="56" code="279" name="Nyaki West"/>
+    <row constituency_code="56" code="280" name="Nyaki East"/>
+    <row constituency_code="57" code="281" name="Timau"/>
+    <row constituency_code="57" code="282" name="Kisima"/>
+    <row constituency_code="57" code="283" name="Kiirua/Naari"/>
+    <row constituency_code="57" code="284" name="Ruiri/Rwarera"/>
+    <row constituency_code="57" code="289" name="Kibirichia"/>
+    <row constituency_code="58" code="285" name="Mwanganthia"/>
+    <row constituency_code="58" code="286" name="Abothuguchi Central"/>
+    <row constituency_code="58" code="287" name="Abothuguchi West"/>
+    <row constituency_code="58" code="288" name="Kiagu"/>
+    <row constituency_code="59" code="290" name="Mitunguu"/>
+    <row constituency_code="59" code="291" name="Igoji East"/>
+    <row constituency_code="59" code="292" name="Igoji West"/>
+    <row constituency_code="59" code="293" name="Abogeta East"/>
+    <row constituency_code="59" code="294" name="Abogeta West"/>
+    <row constituency_code="59" code="295" name="Nkuene"/>
+    <row constituency_code="60" code="296" name="Mitheru"/>
+    <row constituency_code="60" code="297" name="Muthambi"/>
+    <row constituency_code="60" code="298" name="Mwimbi"/>
+    <row constituency_code="60" code="299" name="Ganga"/>
+    <row constituency_code="60" code="300" name="Chogoria"/>
+    <row constituency_code="61" code="301" name="Mariani"/>
+    <row constituency_code="61" code="302" name="Karingani"/>
+    <row constituency_code="61" code="303" name="Magumoni"/>
+    <row constituency_code="61" code="304" name="Mugwe"/>
+    <row constituency_code="61" code="305" name="Igambang'Ombe"/>
+    <row constituency_code="62" code="306" name="Gatunga"/>
+    <row constituency_code="62" code="307" name="Mukothima"/>
+    <row constituency_code="62" code="308" name="Nkondi"/>
+    <row constituency_code="62" code="309" name="Chiakariga"/>
+    <row constituency_code="62" code="310" name="Marimanti"/>
+    <row constituency_code="63" code="311" name="Ruguru/Ngandori"/>
+    <row constituency_code="63" code="312" name="Kithimu"/>
+    <row constituency_code="63" code="313" name="Nginda"/>
+    <row constituency_code="63" code="314" name="Mbeti North"/>
+    <row constituency_code="63" code="315" name="Kirimari"/>
+    <row constituency_code="63" code="316" name="Gaturi South"/>
+    <row constituency_code="64" code="317" name="Gaturi North"/>
+    <row constituency_code="64" code="318" name="Kagaari South"/>
+    <row constituency_code="64" code="319" name="Central  Ward"/>
+    <row constituency_code="64" code="320" name="Kagaari North"/>
+    <row constituency_code="64" code="321" name="Kyeni North"/>
+    <row constituency_code="64" code="322" name="Kyeni South"/>
+    <row constituency_code="65" code="323" name="Mwea"/>
+    <row constituency_code="65" code="324" name="Makima"/>
+    <row constituency_code="65" code="325" name="Mbeti South"/>
+    <row constituency_code="65" code="326" name="Mavuria"/>
+    <row constituency_code="65" code="327" name="Kiambere"/>
+    <row constituency_code="66" code="328" name="Nthawa"/>
+    <row constituency_code="66" code="329" name="Muminji"/>
+    <row constituency_code="66" code="330" name="Evurore"/>
+    <row constituency_code="67" code="331" name="Ngomeni"/>
+    <row constituency_code="67" code="332" name="Kyuso"/>
+    <row constituency_code="67" code="333" name="Mumoni"/>
+    <row constituency_code="67" code="334" name="Tseikuru"/>
+    <row constituency_code="67" code="335" name="Tharaka"/>
+    <row constituency_code="68" code="336" name="Kyome/Thaana"/>
+    <row constituency_code="68" code="337" name="Nguutani"/>
+    <row constituency_code="68" code="338" name="Migwani"/>
+    <row constituency_code="68" code="339" name="Kiomo/Kyethani"/>
+    <row constituency_code="69" code="340" name="Central"/>
+    <row constituency_code="69" code="341" name="Kivou"/>
+    <row constituency_code="69" code="342" name="Nguni"/>
+    <row constituency_code="69" code="343" name="Nuu"/>
+    <row constituency_code="69" code="344" name="Mui"/>
+    <row constituency_code="69" code="345" name="Waita"/>
+    <row constituency_code="70" code="346" name="Mutonguni"/>
+    <row constituency_code="70" code="347" name="Kauwi"/>
+    <row constituency_code="70" code="348" name="Matinyani"/>
+    <row constituency_code="70" code="349" name="Kwa Mutonga/Kithumula"/>
+    <row constituency_code="71" code="350" name="Kisasi"/>
+    <row constituency_code="71" code="351" name="Mbitini"/>
+    <row constituency_code="71" code="352" name="Kwavonza/Yatta"/>
+    <row constituency_code="71" code="353" name="Kanyangi"/>
+    <row constituency_code="72" code="354" name="Miambani"/>
+    <row constituency_code="72" code="355" name="Township"/>
+    <row constituency_code="72" code="356" name="Kyangwithya West"/>
+    <row constituency_code="72" code="357" name="Mulango"/>
+    <row constituency_code="72" code="358" name="Kyangwithya East"/>
+    <row constituency_code="73" code="359" name="Zombe/Mwitika"/>
+    <row constituency_code="73" code="360" name="Nzambani"/>
+    <row constituency_code="73" code="361" name="Chuluni"/>
+    <row constituency_code="73" code="362" name="Voo/Kyamatu"/>
+    <row constituency_code="73" code="363" name="Endau/Malalani"/>
+    <row constituency_code="73" code="364" name="Mutito/Kaliku"/>
+    <row constituency_code="74" code="365" name="Ikanga/Kyatune"/>
+    <row constituency_code="74" code="366" name="Mutomo"/>
+    <row constituency_code="74" code="367" name="Mutha"/>
+    <row constituency_code="74" code="368" name="Ikutha"/>
+    <row constituency_code="74" code="369" name="Kanziko"/>
+    <row constituency_code="74" code="370" name="Athi"/>
+    <row constituency_code="75" code="371" name="Kivaa"/>
+    <row constituency_code="75" code="372" name="Masinga Central"/>
+    <row constituency_code="75" code="373" name="Ekalakala"/>
+    <row constituency_code="75" code="374" name="Muthesya"/>
+    <row constituency_code="75" code="375" name="Ndithini"/>
+    <row constituency_code="76" code="376" name="Ndalani"/>
+    <row constituency_code="76" code="377" name="Matuu"/>
+    <row constituency_code="76" code="378" name="Kithimani"/>
+    <row constituency_code="76" code="379" name="Ikombe"/>
+    <row constituency_code="76" code="380" name="Katangi"/>
+    <row constituency_code="77" code="381" name="Kangundo North"/>
+    <row constituency_code="77" code="382" name="Kangundo Central"/>
+    <row constituency_code="77" code="383" name="Kangundo East"/>
+    <row constituency_code="77" code="384" name="Kangundo West"/>
+    <row constituency_code="78" code="385" name="Tala"/>
+    <row constituency_code="78" code="386" name="Matungulu North"/>
+    <row constituency_code="78" code="387" name="Matungulu East"/>
+    <row constituency_code="78" code="388" name="Matungulu West"/>
+    <row constituency_code="78" code="389" name="Kyeleni"/>
+    <row constituency_code="79" code="390" name="Mitaboni"/>
+    <row constituency_code="79" code="391" name="Kathiani Central"/>
+    <row constituency_code="79" code="392" name="Upper Kaewa/Iveti"/>
+    <row constituency_code="79" code="393" name="Lower Kaewa/Kaani"/>
+    <row constituency_code="80" code="394" name="Athi River"/>
+    <row constituency_code="80" code="395" name="Kinanie"/>
+    <row constituency_code="80" code="396" name="Muthwani"/>
+    <row constituency_code="80" code="397" name="Syokimau/Mulolongo"/>
+    <row constituency_code="81" code="398" name="Kalama"/>
+    <row constituency_code="81" code="399" name="Mua"/>
+    <row constituency_code="81" code="400" name="Mutituni"/>
+    <row constituency_code="81" code="401" name="Machakos Central"/>
+    <row constituency_code="81" code="402" name="Mumbuni North"/>
+    <row constituency_code="81" code="403" name="Muvuti/Kiima-Kimwe"/>
+    <row constituency_code="81" code="404" name="Kola"/>
+    <row constituency_code="82" code="405" name="Mbiuni"/>
+    <row constituency_code="82" code="406" name="Makutano/ Mwala"/>
+    <row constituency_code="82" code="407" name="Masii"/>
+    <row constituency_code="82" code="408" name="Muthetheni"/>
+    <row constituency_code="82" code="409" name="Wamunyu"/>
+    <row constituency_code="82" code="410" name="Kibauni"/>
+    <row constituency_code="83" code="411" name="Tulimani"/>
+    <row constituency_code="83" code="412" name="Mbooni"/>
+    <row constituency_code="83" code="413" name="Kithungo/Kitundu"/>
+    <row constituency_code="83" code="414" name="Kiteta/Kisau"/>
+    <row constituency_code="83" code="415" name="Waia-Kako"/>
+    <row constituency_code="83" code="416" name="Kalawa"/>
+    <row constituency_code="84" code="417" name="Kasikeu"/>
+    <row constituency_code="84" code="418" name="Mukaa"/>
+    <row constituency_code="84" code="419" name="Kiima Kiu/Kalanzoni"/>
+    <row constituency_code="85" code="420" name="Ukia"/>
+    <row constituency_code="85" code="421" name="Kee"/>
+    <row constituency_code="85" code="422" name="Kilungu"/>
+    <row constituency_code="85" code="423" name="Ilima"/>
+    <row constituency_code="86" code="424" name="Wote"/>
+    <row constituency_code="86" code="425" name="Muvau/Kikuumini"/>
+    <row constituency_code="86" code="426" name="Mavindini"/>
+    <row constituency_code="86" code="427" name="Kitise/Kithuki"/>
+    <row constituency_code="86" code="428" name="Kathonzweni"/>
+    <row constituency_code="86" code="429" name="Nzaui/Kilili/Kalamba"/>
+    <row constituency_code="86" code="430" name="Mbitini"/>
+    <row constituency_code="87" code="431" name="Makindu"/>
+    <row constituency_code="87" code="432" name="Nguumo"/>
+    <row constituency_code="87" code="433" name="Kikumbulyu North"/>
+    <row constituency_code="87" code="434" name="Kikumbulyu South"/>
+    <row constituency_code="87" code="435" name="Nguu/Masumba"/>
+    <row constituency_code="87" code="436" name="Emali/Mulala"/>
+    <row constituency_code="88" code="437" name="Masongaleni"/>
+    <row constituency_code="88" code="438" name="Mtito Andei"/>
+    <row constituency_code="88" code="439" name="Thange"/>
+    <row constituency_code="88" code="440" name="Ivingoni/Nzambani"/>
+    <row constituency_code="89" code="441" name="Engineer"/>
+    <row constituency_code="89" code="442" name="Gathara"/>
+    <row constituency_code="89" code="443" name="North Kinangop"/>
+    <row constituency_code="89" code="444" name="Murungaru"/>
+    <row constituency_code="89" code="445" name="Njabini\Kiburu"/>
+    <row constituency_code="89" code="446" name="Nyakio"/>
+    <row constituency_code="89" code="447" name="Githabai"/>
+    <row constituency_code="89" code="448" name="Magumu"/>
+    <row constituency_code="90" code="449" name="Wanjohi"/>
+    <row constituency_code="90" code="450" name="Kipipiri"/>
+    <row constituency_code="90" code="451" name="Geta"/>
+    <row constituency_code="90" code="452" name="Githioro"/>
+    <row constituency_code="91" code="453" name="Karau"/>
+    <row constituency_code="91" code="454" name="Kanjuiri Range"/>
+    <row constituency_code="91" code="455" name="Mirangine"/>
+    <row constituency_code="91" code="456" name="Kaimbaga"/>
+    <row constituency_code="91" code="457" name="Rurii"/>
+    <row constituency_code="92" code="458" name="Gathanji"/>
+    <row constituency_code="92" code="459" name="Gatimu"/>
+    <row constituency_code="92" code="460" name="Weru"/>
+    <row constituency_code="92" code="461" name="Charagita"/>
+    <row constituency_code="93" code="462" name="Leshau/Pondo"/>
+    <row constituency_code="93" code="463" name="Kiriita"/>
+    <row constituency_code="93" code="464" name="Central"/>
+    <row constituency_code="93" code="465" name="Shamata"/>
+    <row constituency_code="94" code="466" name="Dedan Kimanthi"/>
+    <row constituency_code="94" code="467" name="Wamagana"/>
+    <row constituency_code="94" code="468" name="Aguthi-Gaaki"/>
+    <row constituency_code="95" code="469" name="Mweiga"/>
+    <row constituency_code="95" code="470" name="Naromoru Kiamathaga"/>
+    <row constituency_code="95" code="471" name="Mwiyogo/Endarasha"/>
+    <row constituency_code="95" code="472" name="Mugunda"/>
+    <row constituency_code="95" code="473" name="Gatarakwa"/>
+    <row constituency_code="95" code="474" name="Thegu River"/>
+    <row constituency_code="95" code="475" name="Kabaru"/>
+    <row constituency_code="95" code="476" name="Gakawa"/>
+    <row constituency_code="96" code="477" name="Ruguru"/>
+    <row constituency_code="96" code="478" name="Magutu"/>
+    <row constituency_code="96" code="479" name="Iriaini"/>
+    <row constituency_code="96" code="480" name="Konyu"/>
+    <row constituency_code="96" code="481" name="Kirimukuyu"/>
+    <row constituency_code="96" code="482" name="Karatina Town"/>
+    <row constituency_code="97" code="483" name="Mahiga"/>
+    <row constituency_code="97" code="484" name="Iria-Ini"/>
+    <row constituency_code="97" code="485" name="Chinga"/>
+    <row constituency_code="97" code="486" name="Karima"/>
+    <row constituency_code="98" code="487" name="Gikondi"/>
+    <row constituency_code="98" code="488" name="Rugi"/>
+    <row constituency_code="98" code="489" name="Mukurwe-Ini West"/>
+    <row constituency_code="98" code="490" name="Mukurwe-Ini Central"/>
+    <row constituency_code="99" code="491" name="Kiganjo/Mathari"/>
+    <row constituency_code="99" code="492" name="Rware"/>
+    <row constituency_code="99" code="493" name="Gatitu/Muruguru"/>
+    <row constituency_code="99" code="494" name="Ruring'u"/>
+    <row constituency_code="99" code="495" name="Kamakwa/Mukaro"/>
+    <row constituency_code="100" code="496" name="Mutithi"/>
+    <row constituency_code="100" code="497" name="Kangai"/>
+    <row constituency_code="100" code="498" name="Thiba"/>
+    <row constituency_code="100" code="499" name="Wamumu"/>
+    <row constituency_code="100" code="500" name="Nyangati"/>
+    <row constituency_code="100" code="501" name="Murinduko"/>
+    <row constituency_code="100" code="502" name="Gathigiriri"/>
+    <row constituency_code="100" code="503" name="Tebere"/>
+    <row constituency_code="101" code="504" name="Kabare"/>
+    <row constituency_code="101" code="505" name="Baragwi"/>
+    <row constituency_code="101" code="506" name="Njukiini"/>
+    <row constituency_code="101" code="507" name="Ngariama"/>
+    <row constituency_code="101" code="508" name="Karumandi"/>
+    <row constituency_code="102" code="509" name="Mukure"/>
+    <row constituency_code="102" code="510" name="Kiine"/>
+    <row constituency_code="102" code="511" name="Kariti"/>
+    <row constituency_code="103" code="512" name="Mutira"/>
+    <row constituency_code="103" code="513" name="Kanyekini"/>
+    <row constituency_code="103" code="514" name="Kerugoya"/>
+    <row constituency_code="103" code="515" name="Inoi"/>
+    <row constituency_code="104" code="516" name="Kanyenya-Ini"/>
+    <row constituency_code="104" code="517" name="Muguru"/>
+    <row constituency_code="104" code="518" name="Rwathia"/>
+    <row constituency_code="105" code="519" name="Gitugi"/>
+    <row constituency_code="105" code="520" name="Kiru"/>
+    <row constituency_code="105" code="521" name="Kamacharia"/>
+    <row constituency_code="106" code="522" name="Wangu"/>
+    <row constituency_code="106" code="523" name="Mugoiri"/>
+    <row constituency_code="106" code="524" name="Mbiri"/>
+    <row constituency_code="106" code="525" name="Township"/>
+    <row constituency_code="106" code="526" name="Murarandia"/>
+    <row constituency_code="106" code="527" name="Gaturi"/>
+    <row constituency_code="107" code="528" name="Kahumbu"/>
+    <row constituency_code="107" code="529" name="Muthithi"/>
+    <row constituency_code="107" code="530" name="Kigumo"/>
+    <row constituency_code="107" code="531" name="Kangari"/>
+    <row constituency_code="107" code="532" name="Kinyona"/>
+    <row constituency_code="108" code="533" name="Kimorori/Wempa"/>
+    <row constituency_code="108" code="534" name="Makuyu"/>
+    <row constituency_code="108" code="535" name="Kambiti"/>
+    <row constituency_code="108" code="536" name="Kamahuha"/>
+    <row constituency_code="108" code="537" name="Ichagaki"/>
+    <row constituency_code="108" code="538" name="Nginda"/>
+    <row constituency_code="109" code="539" name="Ng'araria"/>
+    <row constituency_code="109" code="540" name="Muruka"/>
+    <row constituency_code="109" code="541" name="Kagundu-Ini"/>
+    <row constituency_code="109" code="542" name="Gaichanjiru"/>
+    <row constituency_code="109" code="543" name="Ithiru"/>
+    <row constituency_code="109" code="544" name="Ruchu"/>
+    <row constituency_code="110" code="545" name="Ithanga"/>
+    <row constituency_code="110" code="546" name="Kakuzi/Mitubiri"/>
+    <row constituency_code="110" code="547" name="Mugumo-Ini"/>
+    <row constituency_code="110" code="548" name="Kihumbu-Ini"/>
+    <row constituency_code="110" code="549" name="Gatanga"/>
+    <row constituency_code="110" code="550" name="Kariara"/>
+    <row constituency_code="111" code="551" name="Kiamwangi"/>
+    <row constituency_code="111" code="552" name="Kiganjo"/>
+    <row constituency_code="111" code="553" name="Ndarugu"/>
+    <row constituency_code="111" code="554" name="Ngenda"/>
+    <row constituency_code="112" code="555" name="Gituamba"/>
+    <row constituency_code="112" code="556" name="Githobokoni"/>
+    <row constituency_code="112" code="557" name="Chania"/>
+    <row constituency_code="112" code="558" name="Mang'u"/>
+    <row constituency_code="113" code="559" name="Murera"/>
+    <row constituency_code="113" code="560" name="Theta"/>
+    <row constituency_code="113" code="561" name="Juja"/>
+    <row constituency_code="113" code="562" name="Witeithie"/>
+    <row constituency_code="113" code="563" name="Kalimoni"/>
+    <row constituency_code="114" code="564" name="Township"/>
+    <row constituency_code="114" code="565" name="Kamenu"/>
+    <row constituency_code="114" code="566" name="Hospital"/>
+    <row constituency_code="114" code="567" name="Gatuanyaga"/>
+    <row constituency_code="114" code="568" name="Ngoliba"/>
+    <row constituency_code="115" code="569" name="Gitothua"/>
+    <row constituency_code="115" code="570" name="Biashara"/>
+    <row constituency_code="115" code="571" name="Gatongora"/>
+    <row constituency_code="115" code="572" name="Kahawa Sukari"/>
+    <row constituency_code="115" code="573" name="Kahawa Wendani"/>
+    <row constituency_code="115" code="574" name="Kiuu"/>
+    <row constituency_code="115" code="575" name="Mwiki"/>
+    <row constituency_code="115" code="576" name="Mwihoko"/>
+    <row constituency_code="116" code="577" name="Githunguri"/>
+    <row constituency_code="116" code="578" name="Githiga"/>
+    <row constituency_code="116" code="579" name="Ikinu"/>
+    <row constituency_code="116" code="580" name="Ngewa"/>
+    <row constituency_code="116" code="581" name="Komothai"/>
+    <row constituency_code="117" code="582" name="Ting'ang'a"/>
+    <row constituency_code="117" code="583" name="Ndumberi"/>
+    <row constituency_code="117" code="584" name="Riabai"/>
+    <row constituency_code="117" code="585" name="Township"/>
+    <row constituency_code="118" code="586" name="Cianda"/>
+    <row constituency_code="118" code="587" name="Karuri"/>
+    <row constituency_code="118" code="588" name="Ndenderu"/>
+    <row constituency_code="118" code="589" name="Muchatha"/>
+    <row constituency_code="118" code="590" name="Kihara"/>
+    <row constituency_code="119" code="591" name="Gitaru"/>
+    <row constituency_code="119" code="592" name="Muguga"/>
+    <row constituency_code="119" code="593" name="Nyadhuna"/>
+    <row constituency_code="119" code="594" name="Kabete"/>
+    <row constituency_code="119" code="595" name="Uthiru"/>
+    <row constituency_code="120" code="596" name="Karai"/>
+    <row constituency_code="120" code="597" name="Nachu"/>
+    <row constituency_code="120" code="598" name="Sigona"/>
+    <row constituency_code="120" code="599" name="Kikuyu"/>
+    <row constituency_code="120" code="600" name="Kinoo"/>
+    <row constituency_code="121" code="601" name="Bibirioni"/>
+    <row constituency_code="121" code="602" name="Limuru Central"/>
+    <row constituency_code="121" code="603" name="Ndeiya"/>
+    <row constituency_code="121" code="604" name="Limuru East"/>
+    <row constituency_code="121" code="605" name="Ngecha Tigoni"/>
+    <row constituency_code="122" code="606" name="Kinale"/>
+    <row constituency_code="122" code="607" name="Kijabe"/>
+    <row constituency_code="122" code="608" name="Nyanduma"/>
+    <row constituency_code="122" code="609" name="Kamburu"/>
+    <row constituency_code="122" code="610" name="Lari/Kirenga"/>
+    <row constituency_code="123" code="611" name="Kaeris"/>
+    <row constituency_code="123" code="612" name="Lake Zone"/>
+    <row constituency_code="123" code="613" name="Lapur"/>
+    <row constituency_code="123" code="614" name="Kaaleng/Kaikor"/>
+    <row constituency_code="123" code="615" name="Kibish"/>
+    <row constituency_code="123" code="616" name="Nakalale"/>
+    <row constituency_code="124" code="617" name="Kakuma"/>
+    <row constituency_code="124" code="618" name="Lopur"/>
+    <row constituency_code="124" code="619" name="Letea"/>
+    <row constituency_code="124" code="620" name="Songot"/>
+    <row constituency_code="124" code="621" name="Kalobeyei"/>
+    <row constituency_code="124" code="622" name="Lokichoggio"/>
+    <row constituency_code="124" code="623" name="Nanaam"/>
+    <row constituency_code="125" code="624" name="Kerio Delta"/>
+    <row constituency_code="125" code="625" name="Kang'atotha"/>
+    <row constituency_code="125" code="626" name="Kalokol"/>
+    <row constituency_code="125" code="627" name="Lodwar Township"/>
+    <row constituency_code="125" code="628" name="Kanamkemer"/>
+    <row constituency_code="126" code="629" name="Kotaruk/Lobei"/>
+    <row constituency_code="126" code="630" name="Turkwel"/>
+    <row constituency_code="126" code="631" name="Loima"/>
+    <row constituency_code="126" code="632" name="Lokiriama/Lorengippi"/>
+    <row constituency_code="127" code="633" name="Kaputir"/>
+    <row constituency_code="127" code="634" name="Katilu"/>
+    <row constituency_code="127" code="635" name="Lobokat"/>
+    <row constituency_code="127" code="636" name="Kalapata"/>
+    <row constituency_code="127" code="637" name="Lokichar"/>
+    <row constituency_code="128" code="638" name="Kapedo/Napeitom"/>
+    <row constituency_code="128" code="639" name="Katilia"/>
+    <row constituency_code="128" code="640" name="Lokori/Kochodin"/>
+    <row constituency_code="129" code="641" name="Riwo"/>
+    <row constituency_code="129" code="642" name="Kapenguria"/>
+    <row constituency_code="129" code="643" name="Mnagei"/>
+    <row constituency_code="129" code="644" name="Siyoi"/>
+    <row constituency_code="129" code="645" name="Endugh"/>
+    <row constituency_code="129" code="646" name="Sook"/>
+    <row constituency_code="130" code="647" name="Sekerr"/>
+    <row constituency_code="130" code="648" name="Masool"/>
+    <row constituency_code="130" code="649" name="Lomut"/>
+    <row constituency_code="130" code="650" name="Weiwei"/>
+    <row constituency_code="131" code="651" name="Suam"/>
+    <row constituency_code="131" code="652" name="Kodich"/>
+    <row constituency_code="131" code="653" name="Kasei"/>
+    <row constituency_code="131" code="654" name="Kapchok"/>
+    <row constituency_code="131" code="655" name="Kiwawa"/>
+    <row constituency_code="131" code="656" name="Alale"/>
+    <row constituency_code="132" code="657" name="Chepareria"/>
+    <row constituency_code="132" code="658" name="Batei"/>
+    <row constituency_code="132" code="659" name="Lelan"/>
+    <row constituency_code="132" code="660" name="Tapach"/>
+    <row constituency_code="133" code="661" name="Lodokejek"/>
+    <row constituency_code="133" code="662" name="Suguta Marmar"/>
+    <row constituency_code="133" code="663" name="Maralal"/>
+    <row constituency_code="133" code="664" name="Loosuk"/>
+    <row constituency_code="133" code="665" name="Poro"/>
+    <row constituency_code="134" code="666" name="El-Barta"/>
+    <row constituency_code="134" code="667" name="Nachola"/>
+    <row constituency_code="134" code="668" name="Ndoto"/>
+    <row constituency_code="134" code="669" name="Nyiro"/>
+    <row constituency_code="134" code="670" name="Angata Nanyokie"/>
+    <row constituency_code="134" code="671" name="Baawa"/>
+    <row constituency_code="135" code="672" name="Waso"/>
+    <row constituency_code="135" code="673" name="Wamba West"/>
+    <row constituency_code="135" code="674" name="Wamba East"/>
+    <row constituency_code="135" code="675" name="Wamba North"/>
+    <row constituency_code="136" code="676" name="Kapomboi"/>
+    <row constituency_code="136" code="677" name="Kwanza"/>
+    <row constituency_code="136" code="678" name="Keiyo"/>
+    <row constituency_code="136" code="679" name="Bidii"/>
+    <row constituency_code="137" code="680" name="Chepchoina"/>
+    <row constituency_code="137" code="681" name="Endebess"/>
+    <row constituency_code="137" code="682" name="Matumbei"/>
+    <row constituency_code="138" code="683" name="Kinyoro"/>
+    <row constituency_code="138" code="684" name="Matisi"/>
+    <row constituency_code="138" code="685" name="Tuwani"/>
+    <row constituency_code="138" code="686" name="Saboti"/>
+    <row constituency_code="138" code="687" name="Machewa"/>
+    <row constituency_code="139" code="688" name="Kiminini"/>
+    <row constituency_code="139" code="689" name="Waitaluk"/>
+    <row constituency_code="139" code="690" name="Sirende"/>
+    <row constituency_code="139" code="691" name="Hospital"/>
+    <row constituency_code="139" code="692" name="Sikhendu"/>
+    <row constituency_code="139" code="693" name="Nabiswa"/>
+    <row constituency_code="140" code="694" name="Sinyerere"/>
+    <row constituency_code="140" code="695" name="Makutano"/>
+    <row constituency_code="140" code="696" name="Kaplamai"/>
+    <row constituency_code="140" code="697" name="Motosiet"/>
+    <row constituency_code="140" code="698" name="Cherangany/Suwerwa"/>
+    <row constituency_code="140" code="699" name="Chepsiro/Kiptoror"/>
+    <row constituency_code="140" code="700" name="Sitatunga"/>
+    <row constituency_code="141" code="701" name="Moi's Bridge"/>
+    <row constituency_code="141" code="702" name="Kapkures"/>
+    <row constituency_code="141" code="703" name="Ziwa"/>
+    <row constituency_code="141" code="704" name="Segero/Barsombe"/>
+    <row constituency_code="141" code="705" name="Kipsomba"/>
+    <row constituency_code="141" code="706" name="Soy"/>
+    <row constituency_code="141" code="707" name="Kuinet/Kapsuswa"/>
+    <row constituency_code="142" code="708" name="Ngenyilel"/>
+    <row constituency_code="142" code="709" name="Tapsagoi"/>
+    <row constituency_code="142" code="710" name="Kamagut"/>
+    <row constituency_code="142" code="711" name="Kiplombe"/>
+    <row constituency_code="142" code="712" name="Kapsaos"/>
+    <row constituency_code="142" code="713" name="Huruma"/>
+    <row constituency_code="143" code="714" name="Tembelio"/>
+    <row constituency_code="143" code="715" name="Sergoit"/>
+    <row constituency_code="143" code="716" name="Karuna/Meibeki"/>
+    <row constituency_code="143" code="717" name="Moiben"/>
+    <row constituency_code="143" code="718" name="Kimumu"/>
+    <row constituency_code="144" code="719" name="Kapsoya"/>
+    <row constituency_code="144" code="720" name="Kaptagat"/>
+    <row constituency_code="144" code="721" name="Ainabkoi/Olare"/>
+    <row constituency_code="145" code="722" name="Simat/Kapseret"/>
+    <row constituency_code="145" code="723" name="Kipkenyo"/>
+    <row constituency_code="145" code="724" name="Ngeria"/>
+    <row constituency_code="145" code="725" name="Megun"/>
+    <row constituency_code="145" code="726" name="Langas"/>
+    <row constituency_code="146" code="727" name="Racecourse"/>
+    <row constituency_code="146" code="728" name="Cheptiret/Kipchamo"/>
+    <row constituency_code="146" code="729" name="Tulwet/Chuiyat"/>
+    <row constituency_code="146" code="730" name="Tarakwa"/>
+    <row constituency_code="147" code="731" name="Kapyego"/>
+    <row constituency_code="147" code="732" name="Sambirir"/>
+    <row constituency_code="147" code="733" name="Endo"/>
+    <row constituency_code="147" code="734" name="Embobut / Embulot"/>
+    <row constituency_code="148" code="735" name="Lelan"/>
+    <row constituency_code="148" code="736" name="Sengwer"/>
+    <row constituency_code="148" code="737" name="Cherang'any/Chebororwa"/>
+    <row constituency_code="148" code="738" name="Moiben/Kuserwo"/>
+    <row constituency_code="148" code="739" name="Kapsowar"/>
+    <row constituency_code="148" code="740" name="Arror"/>
+    <row constituency_code="149" code="741" name="Emsoo"/>
+    <row constituency_code="149" code="742" name="Kamariny"/>
+    <row constituency_code="149" code="743" name="Kapchemutwa"/>
+    <row constituency_code="149" code="744" name="Tambach"/>
+    <row constituency_code="150" code="745" name="Kaptarakwa"/>
+    <row constituency_code="150" code="746" name="Chepkorio"/>
+    <row constituency_code="150" code="747" name="Soy North"/>
+    <row constituency_code="150" code="748" name="Soy South"/>
+    <row constituency_code="150" code="749" name="Kabiemit"/>
+    <row constituency_code="150" code="750" name="Metkei"/>
+    <row constituency_code="151" code="751" name="Songhor/Soba"/>
+    <row constituency_code="151" code="752" name="Tindiret"/>
+    <row constituency_code="151" code="753" name="Chemelil/Chemase"/>
+    <row constituency_code="151" code="754" name="Kapsimotwo"/>
+    <row constituency_code="152" code="755" name="Kabwareng"/>
+    <row constituency_code="152" code="756" name="Terik"/>
+    <row constituency_code="152" code="757" name="Kemeloi-Maraba"/>
+    <row constituency_code="152" code="758" name="Kobujoi"/>
+    <row constituency_code="152" code="759" name="Kaptumo-Kaboi"/>
+    <row constituency_code="152" code="760" name="Koyo-Ndurio"/>
+    <row constituency_code="153" code="761" name="Nandi Hills"/>
+    <row constituency_code="153" code="762" name="Chepkunyuk"/>
+    <row constituency_code="153" code="763" name="Ol'Lessos"/>
+    <row constituency_code="153" code="764" name="Kapchorua"/>
+    <row constituency_code="154" code="765" name="Chemundu/Kapng'etuny"/>
+    <row constituency_code="154" code="766" name="Kosirai"/>
+    <row constituency_code="154" code="767" name="Lelmokwo/Ngechek"/>
+    <row constituency_code="154" code="768" name="Kaptel/Kamoiywo"/>
+    <row constituency_code="154" code="769" name="Kiptuya"/>
+    <row constituency_code="155" code="770" name="Chepkumia"/>
+    <row constituency_code="155" code="771" name="Kapkangani"/>
+    <row constituency_code="155" code="772" name="Kapsabet"/>
+    <row constituency_code="155" code="773" name="Kilibwoni"/>
+    <row constituency_code="156" code="774" name="Chepterwai"/>
+    <row constituency_code="156" code="775" name="Kipkaren"/>
+    <row constituency_code="156" code="776" name="Kurgung/Surungai"/>
+    <row constituency_code="156" code="777" name="Kabiyet"/>
+    <row constituency_code="156" code="778" name="Ndalat"/>
+    <row constituency_code="156" code="779" name="Kabisaga"/>
+    <row constituency_code="156" code="780" name="Sangalo/Kebulonik"/>
+    <row constituency_code="157" code="781" name="Tirioko"/>
+    <row constituency_code="157" code="782" name="Kolowa"/>
+    <row constituency_code="157" code="783" name="Ribkwo"/>
+    <row constituency_code="157" code="784" name="Silale"/>
+    <row constituency_code="157" code="785" name="Loiyamorock"/>
+    <row constituency_code="157" code="786" name="Tangulbei/Korossi"/>
+    <row constituency_code="157" code="787" name="Churo/Amaya"/>
+    <row constituency_code="158" code="788" name="Barwessa"/>
+    <row constituency_code="158" code="789" name="Kabartonjo"/>
+    <row constituency_code="158" code="790" name="Saimo/Kipsaraman"/>
+    <row constituency_code="158" code="791" name="Saimo/Soi"/>
+    <row constituency_code="158" code="792" name="Bartabwa"/>
+    <row constituency_code="159" code="793" name="Kabarnet"/>
+    <row constituency_code="159" code="794" name="Sacho"/>
+    <row constituency_code="159" code="795" name="Tenges"/>
+    <row constituency_code="159" code="796" name="Ewalel/Chapchap"/>
+    <row constituency_code="159" code="797" name="Kapropita"/>
+    <row constituency_code="160" code="798" name="Marigat"/>
+    <row constituency_code="160" code="799" name="Ilchamus"/>
+    <row constituency_code="160" code="800" name="Mochongoi"/>
+    <row constituency_code="160" code="801" name="Mukutani"/>
+    <row constituency_code="161" code="802" name="Mogotio"/>
+    <row constituency_code="161" code="803" name="Emining"/>
+    <row constituency_code="161" code="804" name="Kisanana"/>
+    <row constituency_code="162" code="805" name="Lembus"/>
+    <row constituency_code="162" code="806" name="Lembus Kwen"/>
+    <row constituency_code="162" code="807" name="Ravine"/>
+    <row constituency_code="162" code="808" name="Mumberes/Maji Mazuri"/>
+    <row constituency_code="162" code="809" name="Lembus/Perkerra"/>
+    <row constituency_code="162" code="810" name="Koibatek"/>
+    <row constituency_code="163" code="811" name="Ol-Moran"/>
+    <row constituency_code="163" code="812" name="Rumuruti Township"/>
+    <row constituency_code="163" code="813" name="Githiga"/>
+    <row constituency_code="163" code="814" name="Marmanet"/>
+    <row constituency_code="163" code="815" name="Igwamiti"/>
+    <row constituency_code="163" code="816" name="Salama"/>
+    <row constituency_code="164" code="817" name="Ngobit"/>
+    <row constituency_code="164" code="818" name="Tigithi"/>
+    <row constituency_code="164" code="819" name="Thingithu"/>
+    <row constituency_code="164" code="820" name="Nanyuki"/>
+    <row constituency_code="164" code="821" name="Umande"/>
+    <row constituency_code="165" code="822" name="Sosian"/>
+    <row constituency_code="165" code="823" name="Segera"/>
+    <row constituency_code="165" code="824" name="Mugogodo West"/>
+    <row constituency_code="165" code="825" name="Mugogodo East"/>
+    <row constituency_code="166" code="826" name="Mariashoni"/>
+    <row constituency_code="166" code="827" name="Elburgon"/>
+    <row constituency_code="166" code="828" name="Turi"/>
+    <row constituency_code="166" code="829" name="Molo"/>
+    <row constituency_code="167" code="830" name="Mau Narok"/>
+    <row constituency_code="167" code="831" name="Mauche"/>
+    <row constituency_code="167" code="832" name="Kihingo"/>
+    <row constituency_code="167" code="833" name="Nessuit"/>
+    <row constituency_code="167" code="834" name="Lare"/>
+    <row constituency_code="167" code="835" name="Njoro"/>
+    <row constituency_code="168" code="836" name="Biashara"/>
+    <row constituency_code="168" code="837" name="Hells Gate"/>
+    <row constituency_code="168" code="838" name="Lake View"/>
+    <row constituency_code="168" code="839" name="Mai Mahiu"/>
+    <row constituency_code="168" code="840" name="Maiella"/>
+    <row constituency_code="168" code="841" name="Olkaria"/>
+    <row constituency_code="168" code="842" name="Naivasha East"/>
+    <row constituency_code="168" code="843" name="Viwandani"/>
+    <row constituency_code="169" code="844" name="Gilgil"/>
+    <row constituency_code="169" code="845" name="Elementaita"/>
+    <row constituency_code="169" code="846" name="Mbaruk/Eburu"/>
+    <row constituency_code="169" code="847" name="Malewa West"/>
+    <row constituency_code="169" code="848" name="Murindati"/>
+    <row constituency_code="170" code="849" name="Amalo"/>
+    <row constituency_code="170" code="850" name="Keringet"/>
+    <row constituency_code="170" code="851" name="Kiptagich"/>
+    <row constituency_code="170" code="852" name="Tinet"/>
+    <row constituency_code="171" code="853" name="Kiptororo"/>
+    <row constituency_code="171" code="854" name="Nyota"/>
+    <row constituency_code="171" code="855" name="Sirikwa"/>
+    <row constituency_code="171" code="856" name="Kamara"/>
+    <row constituency_code="172" code="857" name="Subukia"/>
+    <row constituency_code="172" code="858" name="Waseges"/>
+    <row constituency_code="172" code="859" name="Kabazi"/>
+    <row constituency_code="173" code="860" name="Menengai West"/>
+    <row constituency_code="173" code="861" name="Soin"/>
+    <row constituency_code="173" code="862" name="Visoi"/>
+    <row constituency_code="173" code="863" name="Mosop"/>
+    <row constituency_code="173" code="864" name="Solai"/>
+    <row constituency_code="174" code="865" name="Dundori"/>
+    <row constituency_code="174" code="866" name="Kabatini"/>
+    <row constituency_code="174" code="867" name="Kiamaina"/>
+    <row constituency_code="174" code="868" name="Lanet/Umoja"/>
+    <row constituency_code="174" code="869" name="Bahati"/>
+    <row constituency_code="175" code="870" name="Barut"/>
+    <row constituency_code="175" code="871" name="London"/>
+    <row constituency_code="175" code="872" name="Kaptembwo"/>
+    <row constituency_code="175" code="873" name="Kapkures"/>
+    <row constituency_code="175" code="874" name="Rhoda"/>
+    <row constituency_code="175" code="875" name="Shaabab"/>
+    <row constituency_code="176" code="876" name="Biashara"/>
+    <row constituency_code="176" code="877" name="Kivumbini"/>
+    <row constituency_code="176" code="878" name="Flamingo"/>
+    <row constituency_code="176" code="879" name="Menengai"/>
+    <row constituency_code="176" code="880" name="Nakuru East"/>
+    <row constituency_code="177" code="881" name="Kilgoris Central"/>
+    <row constituency_code="177" code="882" name="Keyian"/>
+    <row constituency_code="177" code="883" name="Angata Barikoi"/>
+    <row constituency_code="177" code="884" name="Shankoe"/>
+    <row constituency_code="177" code="885" name="Kimintet"/>
+    <row constituency_code="177" code="886" name="Lolgorian"/>
+    <row constituency_code="178" code="887" name="Ilkerin"/>
+    <row constituency_code="178" code="888" name="Ololmasani"/>
+    <row constituency_code="178" code="889" name="Mogondo"/>
+    <row constituency_code="178" code="890" name="Kapsasian"/>
+    <row constituency_code="179" code="891" name="Olpusimoru"/>
+    <row constituency_code="179" code="892" name="Olokurto"/>
+    <row constituency_code="179" code="893" name="Narok Town"/>
+    <row constituency_code="179" code="894" name="Nkareta"/>
+    <row constituency_code="179" code="895" name="Olorropil"/>
+    <row constituency_code="179" code="896" name="Melili"/>
+    <row constituency_code="180" code="897" name="Mosiro"/>
+    <row constituency_code="180" code="898" name="Ildamat"/>
+    <row constituency_code="180" code="899" name="Keekonyokie"/>
+    <row constituency_code="180" code="900" name="Suswa"/>
+    <row constituency_code="181" code="901" name="Majimoto/Naroosura"/>
+    <row constituency_code="181" code="902" name="Ololulung'a"/>
+    <row constituency_code="181" code="903" name="Melelo"/>
+    <row constituency_code="181" code="904" name="Loita"/>
+    <row constituency_code="181" code="905" name="Sogoo"/>
+    <row constituency_code="181" code="906" name="Sagamian"/>
+    <row constituency_code="182" code="907" name="Ilmotiok"/>
+    <row constituency_code="182" code="908" name="Mara"/>
+    <row constituency_code="182" code="909" name="Siana"/>
+    <row constituency_code="182" code="910" name="Naikarra"/>
+    <row constituency_code="183" code="911" name="Olkeri"/>
+    <row constituency_code="183" code="912" name="Ongata Rongai"/>
+    <row constituency_code="183" code="913" name="Nkaimurunya"/>
+    <row constituency_code="183" code="914" name="Oloolua"/>
+    <row constituency_code="183" code="915" name="Ngong"/>
+    <row constituency_code="184" code="916" name="Purko"/>
+    <row constituency_code="184" code="917" name="Ildamat"/>
+    <row constituency_code="184" code="918" name="Dalalekutuk"/>
+    <row constituency_code="184" code="919" name="Matapato North"/>
+    <row constituency_code="184" code="920" name="Matapato South"/>
+    <row constituency_code="185" code="921" name="Kaputiei North"/>
+    <row constituency_code="185" code="922" name="Kitengela"/>
+    <row constituency_code="185" code="923" name="Oloosirkon/Sholinke"/>
+    <row constituency_code="185" code="924" name="Kenyawa-Poka"/>
+    <row constituency_code="185" code="925" name="Imaroro"/>
+    <row constituency_code="186" code="926" name="Keekonyokie"/>
+    <row constituency_code="186" code="927" name="Iloodokilani"/>
+    <row constituency_code="186" code="928" name="Magadi"/>
+    <row constituency_code="186" code="929" name="Ewuaso Oonkidong'I"/>
+    <row constituency_code="186" code="930" name="Mosiro"/>
+    <row constituency_code="187" code="931" name="Entonet/Lenkisim"/>
+    <row constituency_code="187" code="932" name="Mbirikani/Eselenkei"/>
+    <row constituency_code="187" code="933" name="Kuku"/>
+    <row constituency_code="187" code="934" name="Rombo"/>
+    <row constituency_code="187" code="935" name="Kimana"/>
+    <row constituency_code="188" code="936" name="Londiani"/>
+    <row constituency_code="188" code="937" name="Kedowa/Kimugul"/>
+    <row constituency_code="188" code="938" name="Chepseon"/>
+    <row constituency_code="188" code="939" name="Tendeno/Sorget"/>
+    <row constituency_code="189" code="940" name="Kunyak"/>
+    <row constituency_code="189" code="941" name="Kamasian"/>
+    <row constituency_code="189" code="942" name="Kipkelion"/>
+    <row constituency_code="189" code="943" name="Chilchila"/>
+    <row constituency_code="190" code="944" name="Kapsoit"/>
+    <row constituency_code="190" code="945" name="Ainamoi"/>
+    <row constituency_code="190" code="946" name="Kapkugerwet"/>
+    <row constituency_code="190" code="947" name="Kipchebor"/>
+    <row constituency_code="190" code="948" name="Kipchimchim"/>
+    <row constituency_code="190" code="949" name="Kapsaos"/>
+    <row constituency_code="191" code="950" name="Kisiara"/>
+    <row constituency_code="191" code="951" name="Tebesonik"/>
+    <row constituency_code="191" code="952" name="Cheboin"/>
+    <row constituency_code="191" code="953" name="Chemosot"/>
+    <row constituency_code="191" code="954" name="Litein"/>
+    <row constituency_code="191" code="955" name="Cheplanget"/>
+    <row constituency_code="191" code="956" name="Kapkatet"/>
+    <row constituency_code="192" code="957" name="Waldai"/>
+    <row constituency_code="192" code="958" name="Kabianga"/>
+    <row constituency_code="192" code="959" name="Cheptororiet/Seretut"/>
+    <row constituency_code="192" code="960" name="Chaik"/>
+    <row constituency_code="192" code="961" name="Kapsuser"/>
+    <row constituency_code="193" code="962" name="Sigowet"/>
+    <row constituency_code="193" code="963" name="Kaplelartet"/>
+    <row constituency_code="193" code="964" name="Soliat"/>
+    <row constituency_code="193" code="965" name="Soin"/>
+    <row constituency_code="194" code="966" name="Ndanai/Abosi"/>
+    <row constituency_code="194" code="967" name="Chemagel"/>
+    <row constituency_code="194" code="968" name="Kipsonoi"/>
+    <row constituency_code="194" code="969" name="Kapletundo"/>
+    <row constituency_code="194" code="970" name="Rongena/Manaret"/>
+    <row constituency_code="195" code="971" name="Kong'asis"/>
+    <row constituency_code="195" code="972" name="Nyangores"/>
+    <row constituency_code="195" code="973" name="Sigor"/>
+    <row constituency_code="195" code="974" name="Chebunyo"/>
+    <row constituency_code="195" code="975" name="Siongiroi"/>
+    <row constituency_code="196" code="976" name="Merigi"/>
+    <row constituency_code="196" code="977" name="Kembu"/>
+    <row constituency_code="196" code="978" name="Longisa"/>
+    <row constituency_code="196" code="979" name="Kipreres"/>
+    <row constituency_code="196" code="980" name="Chemaner"/>
+    <row constituency_code="197" code="981" name="Silibwet Township"/>
+    <row constituency_code="197" code="982" name="Ndaraweta"/>
+    <row constituency_code="197" code="983" name="Singorwet"/>
+    <row constituency_code="197" code="984" name="Chesoen"/>
+    <row constituency_code="197" code="985" name="Mutarakwa"/>
+    <row constituency_code="198" code="986" name="Chepchabas"/>
+    <row constituency_code="198" code="987" name="Kimulot"/>
+    <row constituency_code="198" code="988" name="Mogogosiek"/>
+    <row constituency_code="198" code="989" name="Boito"/>
+    <row constituency_code="198" code="990" name="Embomos"/>
+    <row constituency_code="199" code="991" name="Mautuma"/>
+    <row constituency_code="199" code="992" name="Lugari"/>
+    <row constituency_code="199" code="993" name="Lumakanda"/>
+    <row constituency_code="199" code="994" name="Chekalini"/>
+    <row constituency_code="199" code="995" name="Chevaywa"/>
+    <row constituency_code="199" code="996" name="Lwandeti"/>
+    <row constituency_code="200" code="997" name="Likuyani"/>
+    <row constituency_code="200" code="998" name="Sango"/>
+    <row constituency_code="200" code="999" name="Kongoni"/>
+    <row constituency_code="200" code="1000" name="Nzoia"/>
+    <row constituency_code="200" code="1001" name="Sinoko"/>
+    <row constituency_code="201" code="1002" name="West Kabras"/>
+    <row constituency_code="201" code="1003" name="Chemuche"/>
+    <row constituency_code="201" code="1004" name="East Kabras"/>
+    <row constituency_code="201" code="1005" name="Butali/Chegulo"/>
+    <row constituency_code="201" code="1006" name="Manda-Shivanga"/>
+    <row constituency_code="201" code="1007" name="Shirugu-Mugai"/>
+    <row constituency_code="201" code="1008" name="South Kabras"/>
+    <row constituency_code="202" code="1009" name="Butsotso East"/>
+    <row constituency_code="202" code="1010" name="Butsotso South"/>
+    <row constituency_code="202" code="1011" name="Butsotso Central"/>
+    <row constituency_code="202" code="1012" name="Sheywe"/>
+    <row constituency_code="202" code="1013" name="Mahiakalo"/>
+    <row constituency_code="202" code="1014" name="Shirere"/>
+    <row constituency_code="203" code="1015" name="Ingostse-Mathia"/>
+    <row constituency_code="203" code="1016" name="Shinoyi-Shikomari-Esumeyia"/>
+    <row constituency_code="203" code="1017" name="Bunyala West"/>
+    <row constituency_code="203" code="1018" name="Bunyala East"/>
+    <row constituency_code="203" code="1019" name="Bunyala Central"/>
+    <row constituency_code="204" code="1020" name="Mumias Central"/>
+    <row constituency_code="204" code="1021" name="Mumias North"/>
+    <row constituency_code="204" code="1022" name="Etenje"/>
+    <row constituency_code="204" code="1023" name="Musanda"/>
+    <row constituency_code="205" code="1024" name="Lusheya/Lubinu"/>
+    <row constituency_code="205" code="1025" name="Malaha/Isongo/Makunga"/>
+    <row constituency_code="205" code="1026" name="East Wanga"/>
+    <row constituency_code="206" code="1027" name="Koyonzo"/>
+    <row constituency_code="206" code="1028" name="Kholera"/>
+    <row constituency_code="206" code="1029" name="Khalaba"/>
+    <row constituency_code="206" code="1030" name="Mayoni"/>
+    <row constituency_code="206" code="1031" name="Namamali"/>
+    <row constituency_code="207" code="1032" name="Marama West"/>
+    <row constituency_code="207" code="1033" name="Marama Central"/>
+    <row constituency_code="207" code="1034" name="Marenyo - Shianda"/>
+    <row constituency_code="207" code="1035" name="Marama North"/>
+    <row constituency_code="207" code="1036" name="Marama South"/>
+    <row constituency_code="208" code="1037" name="Kisa North"/>
+    <row constituency_code="208" code="1038" name="Kisa East"/>
+    <row constituency_code="208" code="1039" name="Kisa West"/>
+    <row constituency_code="208" code="1040" name="Kisa Central"/>
+    <row constituency_code="209" code="1041" name="Isukha North"/>
+    <row constituency_code="209" code="1042" name="Murhanda"/>
+    <row constituency_code="209" code="1043" name="Isukha Central"/>
+    <row constituency_code="209" code="1044" name="Isukha South"/>
+    <row constituency_code="209" code="1045" name="Isukha East"/>
+    <row constituency_code="209" code="1046" name="Isukha West"/>
+    <row constituency_code="210" code="1047" name="Idakho South"/>
+    <row constituency_code="210" code="1048" name="Idakho East"/>
+    <row constituency_code="210" code="1049" name="Idakho North"/>
+    <row constituency_code="210" code="1050" name="Idakho Central"/>
+    <row constituency_code="211" code="1051" name="Lugaga-Wamuluma"/>
+    <row constituency_code="211" code="1052" name="South Maragoli"/>
+    <row constituency_code="211" code="1053" name="Central Maragoli"/>
+    <row constituency_code="211" code="1054" name="Mungoma"/>
+    <row constituency_code="212" code="1055" name="Lyaduywa/Izava"/>
+    <row constituency_code="212" code="1056" name="West Sabatia"/>
+    <row constituency_code="212" code="1057" name="Chavakali"/>
+    <row constituency_code="212" code="1058" name="North Maragoli"/>
+    <row constituency_code="212" code="1059" name="Wodanga"/>
+    <row constituency_code="212" code="1060" name="Busali"/>
+    <row constituency_code="213" code="1061" name="Shiru"/>
+    <row constituency_code="213" code="1062" name="Gisambai"/>
+    <row constituency_code="213" code="1063" name="Shamakhokho"/>
+    <row constituency_code="213" code="1064" name="Banja"/>
+    <row constituency_code="213" code="1065" name="Muhudu"/>
+    <row constituency_code="213" code="1066" name="Tambua"/>
+    <row constituency_code="213" code="1067" name="Jepkoyai"/>
+    <row constituency_code="214" code="1068" name="Luanda Township"/>
+    <row constituency_code="214" code="1069" name="Wemilabi"/>
+    <row constituency_code="214" code="1070" name="Mwibona"/>
+    <row constituency_code="214" code="1071" name="Luanda South"/>
+    <row constituency_code="214" code="1072" name="Emabungo"/>
+    <row constituency_code="215" code="1073" name="North East Bunyore"/>
+    <row constituency_code="215" code="1074" name="Central Bunyore"/>
+    <row constituency_code="215" code="1075" name="West Bunyore"/>
+    <row constituency_code="216" code="1076" name="Cheptais"/>
+    <row constituency_code="216" code="1077" name="Chesikaki"/>
+    <row constituency_code="216" code="1078" name="Chepyuk"/>
+    <row constituency_code="216" code="1079" name="Kapkateny"/>
+    <row constituency_code="216" code="1080" name="Kaptama"/>
+    <row constituency_code="216" code="1081" name="Elgon"/>
+    <row constituency_code="217" code="1082" name="Namwela"/>
+    <row constituency_code="217" code="1083" name="Malakisi/South Kulisiru"/>
+    <row constituency_code="217" code="1084" name="Lwandanyi"/>
+    <row constituency_code="218" code="1085" name="Kabuchai/Chwele"/>
+    <row constituency_code="218" code="1086" name="West Nalondo"/>
+    <row constituency_code="218" code="1087" name="Bwake/Luuya"/>
+    <row constituency_code="218" code="1088" name="Mukuyuni"/>
+    <row constituency_code="219" code="1089" name="South Bukusu"/>
+    <row constituency_code="219" code="1090" name="Bumula"/>
+    <row constituency_code="219" code="1091" name="Khasoko"/>
+    <row constituency_code="219" code="1092" name="Kabula"/>
+    <row constituency_code="219" code="1093" name="Kimaeti"/>
+    <row constituency_code="219" code="1094" name="West Bukusu"/>
+    <row constituency_code="219" code="1095" name="Siboti"/>
+    <row constituency_code="220" code="1096" name="Bukembe West"/>
+    <row constituency_code="220" code="1097" name="Bukembe East"/>
+    <row constituency_code="220" code="1098" name="Township"/>
+    <row constituency_code="220" code="1099" name="Khalaba"/>
+    <row constituency_code="220" code="1100" name="Musikoma"/>
+    <row constituency_code="220" code="1101" name="East Sang'Alo"/>
+    <row constituency_code="220" code="1102" name="Marakaru/Tuuti"/>
+    <row constituency_code="220" code="1103" name="West Sang'alo"/>
+    <row constituency_code="221" code="1104" name="Mihuu"/>
+    <row constituency_code="221" code="1105" name="Ndivisi"/>
+    <row constituency_code="221" code="1106" name="Maraka"/>
+    <row constituency_code="222" code="1107" name="Misikhu"/>
+    <row constituency_code="222" code="1108" name="Sitikho"/>
+    <row constituency_code="222" code="1109" name="Matulo"/>
+    <row constituency_code="222" code="1110" name="Bokoli"/>
+    <row constituency_code="223" code="1111" name="Kibingei"/>
+    <row constituency_code="223" code="1112" name="Kimilili"/>
+    <row constituency_code="223" code="1113" name="Maeni"/>
+    <row constituency_code="223" code="1114" name="Kamukuywa"/>
+    <row constituency_code="224" code="1115" name="Mbakalo"/>
+    <row constituency_code="224" code="1116" name="Naitiri/Kabuyefwe"/>
+    <row constituency_code="224" code="1117" name="Milima"/>
+    <row constituency_code="224" code="1118" name="Ndalu/ Tabani"/>
+    <row constituency_code="224" code="1119" name="Tongaren"/>
+    <row constituency_code="224" code="1120" name="Soysambu/ Mitua"/>
+    <row constituency_code="225" code="1121" name="Malaba Central"/>
+    <row constituency_code="225" code="1122" name="Malaba North"/>
+    <row constituency_code="225" code="1123" name="Ang'Urai South"/>
+    <row constituency_code="225" code="1124" name="Ang'Urai North"/>
+    <row constituency_code="225" code="1125" name="Ang'Urai East"/>
+    <row constituency_code="225" code="1126" name="Malaba South"/>
+    <row constituency_code="226" code="1127" name="Ang'orom"/>
+    <row constituency_code="226" code="1128" name="Chakol South"/>
+    <row constituency_code="226" code="1129" name="Chakol North"/>
+    <row constituency_code="226" code="1130" name="Amukura West"/>
+    <row constituency_code="226" code="1131" name="Amukura East"/>
+    <row constituency_code="226" code="1132" name="Amukura Central"/>
+    <row constituency_code="227" code="1133" name="Nambale Township"/>
+    <row constituency_code="227" code="1134" name="Bukhayo North/Waltsi"/>
+    <row constituency_code="227" code="1135" name="Bukhayo East"/>
+    <row constituency_code="227" code="1136" name="Bukhayo Central"/>
+    <row constituency_code="228" code="1137" name="Bukhayo West"/>
+    <row constituency_code="228" code="1138" name="Mayenje"/>
+    <row constituency_code="228" code="1139" name="Matayos South"/>
+    <row constituency_code="228" code="1140" name="Busibwabo"/>
+    <row constituency_code="228" code="1141" name="Burumba"/>
+    <row constituency_code="229" code="1142" name="Marachi West"/>
+    <row constituency_code="229" code="1143" name="Kingandole"/>
+    <row constituency_code="229" code="1144" name="Marachi Central"/>
+    <row constituency_code="229" code="1145" name="Marachi East"/>
+    <row constituency_code="229" code="1146" name="Marachi North"/>
+    <row constituency_code="229" code="1147" name="Elugulu"/>
+    <row constituency_code="230" code="1148" name="Namboboto Nambuku"/>
+    <row constituency_code="230" code="1149" name="Nangina"/>
+    <row constituency_code="230" code="1150" name="Ageng'a Nanguba"/>
+    <row constituency_code="230" code="1151" name="Bwiri"/>
+    <row constituency_code="231" code="1152" name="Bunyala Central"/>
+    <row constituency_code="231" code="1153" name="Bunyala North"/>
+    <row constituency_code="231" code="1154" name="Bunyala West"/>
+    <row constituency_code="231" code="1155" name="Bunyala South"/>
+    <row constituency_code="232" code="1156" name="West Ugenya"/>
+    <row constituency_code="232" code="1157" name="Ukwala"/>
+    <row constituency_code="232" code="1158" name="North Ugenya"/>
+    <row constituency_code="232" code="1159" name="East Ugenya"/>
+    <row constituency_code="233" code="1160" name="Sidindi"/>
+    <row constituency_code="233" code="1161" name="Sigomere"/>
+    <row constituency_code="233" code="1162" name="Ugunja"/>
+    <row constituency_code="234" code="1163" name="Usonga"/>
+    <row constituency_code="234" code="1164" name="West Alego"/>
+    <row constituency_code="234" code="1165" name="Central Alego"/>
+    <row constituency_code="234" code="1166" name="Siaya Township"/>
+    <row constituency_code="234" code="1167" name="North Alego"/>
+    <row constituency_code="234" code="1168" name="South East Alego"/>
+    <row constituency_code="235" code="1169" name="North Gem"/>
+    <row constituency_code="235" code="1170" name="West Gem"/>
+    <row constituency_code="235" code="1171" name="Central Gem"/>
+    <row constituency_code="235" code="1172" name="Yala Township"/>
+    <row constituency_code="235" code="1173" name="East Gem"/>
+    <row constituency_code="235" code="1174" name="South Gem"/>
+    <row constituency_code="236" code="1175" name="West Yimbo"/>
+    <row constituency_code="236" code="1176" name="Central Sakwa"/>
+    <row constituency_code="236" code="1177" name="South Sakwa"/>
+    <row constituency_code="236" code="1178" name="Yimbo East"/>
+    <row constituency_code="236" code="1179" name="West Sakwa"/>
+    <row constituency_code="236" code="1180" name="North Sakwa"/>
+    <row constituency_code="237" code="1181" name="East Asembo"/>
+    <row constituency_code="237" code="1182" name="West Asembo"/>
+    <row constituency_code="237" code="1183" name="North Uyoma"/>
+    <row constituency_code="237" code="1184" name="South Uyoma"/>
+    <row constituency_code="237" code="1185" name="West Uyoma"/>
+    <row constituency_code="238" code="1186" name="Kajulu"/>
+    <row constituency_code="238" code="1187" name="Kolwa East"/>
+    <row constituency_code="238" code="1188" name="Manyatta 'B'"/>
+    <row constituency_code="238" code="1189" name="Nyalenda 'A'"/>
+    <row constituency_code="238" code="1190" name="Kolwa Central"/>
+    <row constituency_code="239" code="1191" name="South West Kisumu"/>
+    <row constituency_code="239" code="1192" name="Central Kisumu"/>
+    <row constituency_code="239" code="1193" name="Kisumu North"/>
+    <row constituency_code="239" code="1194" name="West Kisumu"/>
+    <row constituency_code="239" code="1195" name="North West Kisumu"/>
+    <row constituency_code="240" code="1196" name="Railways"/>
+    <row constituency_code="240" code="1197" name="Migosi"/>
+    <row constituency_code="240" code="1198" name="Shaurimoyo Kaloleni"/>
+    <row constituency_code="240" code="1199" name="Market Milimani"/>
+    <row constituency_code="240" code="1200" name="Kondele"/>
+    <row constituency_code="240" code="1201" name="Nyalenda B"/>
+    <row constituency_code="241" code="1202" name="West Seme"/>
+    <row constituency_code="241" code="1203" name="Central Seme"/>
+    <row constituency_code="241" code="1204" name="East Seme"/>
+    <row constituency_code="241" code="1205" name="North Seme"/>
+    <row constituency_code="242" code="1206" name="East Kano/Wawidhi"/>
+    <row constituency_code="242" code="1207" name="Awasi/Onjiko"/>
+    <row constituency_code="242" code="1208" name="Ahero"/>
+    <row constituency_code="242" code="1209" name="Kabonyo/Kanyagwal"/>
+    <row constituency_code="242" code="1210" name="Kobura"/>
+    <row constituency_code="243" code="1211" name="Miwani"/>
+    <row constituency_code="243" code="1212" name="Ombeyi"/>
+    <row constituency_code="243" code="1213" name="Masogo/Nyang'oma"/>
+    <row constituency_code="243" code="1214" name="Chemelil"/>
+    <row constituency_code="243" code="1215" name="Muhoroni/Koru"/>
+    <row constituency_code="244" code="1216" name="South West Nyakach"/>
+    <row constituency_code="244" code="1217" name="North Nyakach"/>
+    <row constituency_code="244" code="1218" name="Central Nyakach"/>
+    <row constituency_code="244" code="1219" name="West Nyakach"/>
+    <row constituency_code="244" code="1220" name="South East Nyakach"/>
+    <row constituency_code="245" code="1221" name="West Kasipul"/>
+    <row constituency_code="245" code="1222" name="South Kasipul"/>
+    <row constituency_code="245" code="1223" name="Central Kasipul"/>
+    <row constituency_code="245" code="1224" name="East Kamagak"/>
+    <row constituency_code="245" code="1225" name="West Kamagak"/>
+    <row constituency_code="246" code="1226" name="Kabondo East"/>
+    <row constituency_code="246" code="1227" name="Kabondo West"/>
+    <row constituency_code="246" code="1228" name="Kokwanyo/Kakelo"/>
+    <row constituency_code="246" code="1229" name="Kojwach"/>
+    <row constituency_code="247" code="1230" name="West Karachuonyo"/>
+    <row constituency_code="247" code="1231" name="North Karachuonyo"/>
+    <row constituency_code="247" code="1232" name="Central"/>
+    <row constituency_code="247" code="1233" name="Kanyaluo"/>
+    <row constituency_code="247" code="1234" name="Kibiri"/>
+    <row constituency_code="247" code="1235" name="Wangchieng"/>
+    <row constituency_code="247" code="1236" name="Kendu Bay Town"/>
+    <row constituency_code="248" code="1237" name="West Gem"/>
+    <row constituency_code="248" code="1238" name="East Gem"/>
+    <row constituency_code="248" code="1239" name="Kagan"/>
+    <row constituency_code="248" code="1240" name="Kochia"/>
+    <row constituency_code="249" code="1241" name="Homa Bay Central"/>
+    <row constituency_code="249" code="1242" name="Homa Bay Arujo"/>
+    <row constituency_code="249" code="1243" name="Homa Bay West"/>
+    <row constituency_code="249" code="1244" name="Homa Bay East"/>
+    <row constituency_code="250" code="1245" name="Kwabwai"/>
+    <row constituency_code="250" code="1246" name="Kanyadoto"/>
+    <row constituency_code="250" code="1247" name="Kanyikela"/>
+    <row constituency_code="250" code="1248" name="Kabuoch North"/>
+    <row constituency_code="250" code="1249" name="Kabuoch South/Pala"/>
+    <row constituency_code="250" code="1250" name="Kanyamwa Kologi"/>
+    <row constituency_code="250" code="1251" name="Kanyamwa Kosewe"/>
+    <row constituency_code="251" code="1252" name="Mfangano Island"/>
+    <row constituency_code="251" code="1253" name="Rusinga Island"/>
+    <row constituency_code="251" code="1254" name="Kasgunga"/>
+    <row constituency_code="251" code="1255" name="Gembe"/>
+    <row constituency_code="251" code="1256" name="Lambwe"/>
+    <row constituency_code="252" code="1257" name="Gwassi South"/>
+    <row constituency_code="252" code="1258" name="Gwassi North"/>
+    <row constituency_code="252" code="1259" name="Kaksingri West"/>
+    <row constituency_code="252" code="1260" name="Ruma-Kaksingri"/>
+    <row constituency_code="253" code="1261" name="North Kamagambo"/>
+    <row constituency_code="253" code="1262" name="Central Kamagambo"/>
+    <row constituency_code="253" code="1263" name="East Kamagambo"/>
+    <row constituency_code="253" code="1264" name="South Kamagambo"/>
+    <row constituency_code="254" code="1265" name="North Sakwa"/>
+    <row constituency_code="254" code="1266" name="South Sakwa"/>
+    <row constituency_code="254" code="1267" name="West Sakwa"/>
+    <row constituency_code="254" code="1268" name="Central Sakwa"/>
+    <row constituency_code="255" code="1269" name="God Jope"/>
+    <row constituency_code="255" code="1270" name="Suna Central"/>
+    <row constituency_code="255" code="1271" name="Kakrao"/>
+    <row constituency_code="255" code="1272" name="Kwa"/>
+    <row constituency_code="256" code="1273" name="Wiga"/>
+    <row constituency_code="256" code="1274" name="Wasweta Ii"/>
+    <row constituency_code="256" code="1275" name="Ragana-Oruba"/>
+    <row constituency_code="256" code="1276" name="Wasimbete"/>
+    <row constituency_code="257" code="1277" name="West Kanyamkago"/>
+    <row constituency_code="257" code="1278" name="North Kanyamkago"/>
+    <row constituency_code="257" code="1279" name="Central Kanyamkago"/>
+    <row constituency_code="257" code="1280" name="South Kanyamkago"/>
+    <row constituency_code="257" code="1281" name="East Kanyamkago"/>
+    <row constituency_code="258" code="1282" name="Kachien'g"/>
+    <row constituency_code="258" code="1283" name="Kanyasa"/>
+    <row constituency_code="258" code="1284" name="North Kadem"/>
+    <row constituency_code="258" code="1285" name="Macalder/Kanyarwanda"/>
+    <row constituency_code="258" code="1286" name="Kaler"/>
+    <row constituency_code="258" code="1287" name="Got Kachola"/>
+    <row constituency_code="258" code="1288" name="Muhuru"/>
+    <row constituency_code="259" code="1289" name="Bukira East"/>
+    <row constituency_code="259" code="1290" name="Bukira Centrl/Ikerege"/>
+    <row constituency_code="259" code="1291" name="Isibania"/>
+    <row constituency_code="259" code="1292" name="Makerero"/>
+    <row constituency_code="259" code="1293" name="Masaba"/>
+    <row constituency_code="259" code="1294" name="Tagare"/>
+    <row constituency_code="259" code="1295" name="Nyamosense/Komosoko"/>
+    <row constituency_code="260" code="1296" name="Gokeharaka/Getambwega"/>
+    <row constituency_code="260" code="1297" name="Ntimaru West"/>
+    <row constituency_code="260" code="1298" name="Ntimaru East"/>
+    <row constituency_code="260" code="1299" name="Nyabasi East"/>
+    <row constituency_code="260" code="1300" name="Nyabasi West"/>
+    <row constituency_code="261" code="1301" name="Bomariba"/>
+    <row constituency_code="261" code="1302" name="Bogiakumu"/>
+    <row constituency_code="261" code="1303" name="Bomorenda"/>
+    <row constituency_code="261" code="1304" name="Riana"/>
+    <row constituency_code="262" code="1305" name="Tabaka"/>
+    <row constituency_code="262" code="1306" name="Boikang'a"/>
+    <row constituency_code="262" code="1307" name="Bogetenga"/>
+    <row constituency_code="262" code="1308" name="Borabu / Chitago"/>
+    <row constituency_code="262" code="1309" name="Moticho"/>
+    <row constituency_code="262" code="1310" name="Getenga"/>
+    <row constituency_code="263" code="1311" name="Bombaba Borabu"/>
+    <row constituency_code="263" code="1312" name="Boochi Borabu"/>
+    <row constituency_code="263" code="1313" name="Bokimonge"/>
+    <row constituency_code="263" code="1314" name="Magenche"/>
+    <row constituency_code="264" code="1315" name="Masige West"/>
+    <row constituency_code="264" code="1316" name="Masige East"/>
+    <row constituency_code="264" code="1317" name="Basi Central"/>
+    <row constituency_code="264" code="1318" name="Nyacheki"/>
+    <row constituency_code="264" code="1319" name="Basi Bogetaorio"/>
+    <row constituency_code="264" code="1320" name="Bobasi Chache"/>
+    <row constituency_code="264" code="1321" name="Sameta/Mokwerero"/>
+    <row constituency_code="264" code="1322" name="Bobasi Boitangare"/>
+    <row constituency_code="265" code="1323" name="Majoge Basi"/>
+    <row constituency_code="265" code="1324" name="Boochi/Tendere"/>
+    <row constituency_code="265" code="1325" name="Bosoti/Sengera"/>
+    <row constituency_code="266" code="1326" name="Ichuni"/>
+    <row constituency_code="266" code="1327" name="Nyamasibi"/>
+    <row constituency_code="266" code="1328" name="Masimba"/>
+    <row constituency_code="266" code="1329" name="Gesusu"/>
+    <row constituency_code="266" code="1330" name="Kiamokama"/>
+    <row constituency_code="267" code="1331" name="Bobaracho"/>
+    <row constituency_code="267" code="1332" name="Kisii Central"/>
+    <row constituency_code="267" code="1333" name="Keumbu"/>
+    <row constituency_code="267" code="1334" name="Kiogoro"/>
+    <row constituency_code="267" code="1335" name="Birongo"/>
+    <row constituency_code="267" code="1336" name="Ibeno"/>
+    <row constituency_code="268" code="1337" name="Monyerero"/>
+    <row constituency_code="268" code="1338" name="Sensi"/>
+    <row constituency_code="268" code="1339" name="Marani"/>
+    <row constituency_code="268" code="1340" name="Kegogi"/>
+    <row constituency_code="269" code="1341" name="Bogusero"/>
+    <row constituency_code="269" code="1342" name="Bogeka"/>
+    <row constituency_code="269" code="1343" name="Nyakoe"/>
+    <row constituency_code="269" code="1344" name="Kitutu   Central"/>
+    <row constituency_code="269" code="1345" name="Nyatieko"/>
+    <row constituency_code="270" code="1346" name="Rigoma"/>
+    <row constituency_code="270" code="1347" name="Gachuba"/>
+    <row constituency_code="270" code="1348" name="Kemera"/>
+    <row constituency_code="270" code="1349" name="Magombo"/>
+    <row constituency_code="270" code="1350" name="Manga"/>
+    <row constituency_code="270" code="1351" name="Gesima"/>
+    <row constituency_code="271" code="1352" name="Nyamaiya"/>
+    <row constituency_code="271" code="1353" name="Bogichora"/>
+    <row constituency_code="271" code="1354" name="Bosamaro"/>
+    <row constituency_code="271" code="1355" name="Bonyamatuta"/>
+    <row constituency_code="271" code="1356" name="Township"/>
+    <row constituency_code="272" code="1357" name="Itibo"/>
+    <row constituency_code="272" code="1358" name="Bomwagamo"/>
+    <row constituency_code="272" code="1359" name="Bokeira"/>
+    <row constituency_code="272" code="1360" name="Magwagwa"/>
+    <row constituency_code="272" code="1361" name="Ekerenyo"/>
+    <row constituency_code="273" code="1362" name="Mekenene"/>
+    <row constituency_code="273" code="1363" name="Kiabonyoru"/>
+    <row constituency_code="273" code="1364" name="Nyansiongo"/>
+    <row constituency_code="273" code="1365" name="Esise"/>
+    <row constituency_code="274" code="1366" name="Kitisuru"/>
+    <row constituency_code="274" code="1367" name="Parklands/Highridge"/>
+    <row constituency_code="274" code="1368" name="Karura"/>
+    <row constituency_code="274" code="1369" name="Kangemi"/>
+    <row constituency_code="274" code="1370" name="Mountain View"/>
+    <row constituency_code="275" code="1371" name="Kilimani"/>
+    <row constituency_code="275" code="1372" name="Kawangware"/>
+    <row constituency_code="275" code="1373" name="Gatina"/>
+    <row constituency_code="275" code="1374" name="Kileleshwa"/>
+    <row constituency_code="275" code="1375" name="Kabiro"/>
+    <row constituency_code="276" code="1376" name="Mutu-Ini"/>
+    <row constituency_code="276" code="1377" name="Ngando"/>
+    <row constituency_code="276" code="1378" name="Riruta"/>
+    <row constituency_code="276" code="1379" name="Uthiru/Ruthimitu"/>
+    <row constituency_code="276" code="1380" name="Waithaka"/>
+    <row constituency_code="277" code="1381" name="Karen"/>
+    <row constituency_code="277" code="1382" name="Nairobi West"/>
+    <row constituency_code="277" code="1383" name="Mugumu-Ini"/>
+    <row constituency_code="277" code="1384" name="South C"/>
+    <row constituency_code="277" code="1385" name="Nyayo Highrise"/>
+    <row constituency_code="278" code="1386" name="Laini Saba"/>
+    <row constituency_code="278" code="1387" name="Lindi"/>
+    <row constituency_code="278" code="1388" name="Makina"/>
+    <row constituency_code="278" code="1389" name="Woodley/Kenyatta Golf Course"/>
+    <row constituency_code="278" code="1390" name="Sarangombe"/>
+    <row constituency_code="279" code="1391" name="Githurai"/>
+    <row constituency_code="279" code="1392" name="Kahawa West"/>
+    <row constituency_code="279" code="1393" name="Zimmerman"/>
+    <row constituency_code="279" code="1394" name="Roysambu"/>
+    <row constituency_code="279" code="1395" name="Kahawa"/>
+    <row constituency_code="280" code="1396" name="Clay City"/>
+    <row constituency_code="280" code="1397" name="Mwiki"/>
+    <row constituency_code="280" code="1398" name="Kasarani"/>
+    <row constituency_code="280" code="1399" name="Njiru"/>
+    <row constituency_code="280" code="1400" name="Ruai"/>
+    <row constituency_code="281" code="1401" name="Baba Dogo"/>
+    <row constituency_code="281" code="1402" name="Utalii"/>
+    <row constituency_code="281" code="1403" name="Mathare North"/>
+    <row constituency_code="281" code="1404" name="Lucky Summer"/>
+    <row constituency_code="281" code="1405" name="Korogocho"/>
+    <row constituency_code="282" code="1406" name="Imara Daima"/>
+    <row constituency_code="282" code="1407" name="Kwa Njenga"/>
+    <row constituency_code="282" code="1408" name="Kwa Reuben"/>
+    <row constituency_code="282" code="1409" name="Pipeline"/>
+    <row constituency_code="282" code="1410" name="Kware"/>
+    <row constituency_code="283" code="1411" name="Kariobangi North"/>
+    <row constituency_code="283" code="1412" name="Dandora Area I"/>
+    <row constituency_code="283" code="1413" name="Dandora Area Ii"/>
+    <row constituency_code="283" code="1414" name="Dandora Area Iii"/>
+    <row constituency_code="283" code="1415" name="Dandora Area Iv"/>
+    <row constituency_code="284" code="1416" name="Kayole North"/>
+    <row constituency_code="284" code="1417" name="Kayole Central"/>
+    <row constituency_code="284" code="1418" name="Kayole South"/>
+    <row constituency_code="284" code="1419" name="Komarock"/>
+    <row constituency_code="284" code="1420" name="Matopeni/Spring Valley"/>
+    <row constituency_code="285" code="1421" name="Upper Savannah"/>
+    <row constituency_code="285" code="1422" name="Lower Savannah"/>
+    <row constituency_code="285" code="1423" name="Embakasi"/>
+    <row constituency_code="285" code="1424" name="Utawala"/>
+    <row constituency_code="285" code="1425" name="Mihango"/>
+    <row constituency_code="286" code="1426" name="Umoja I"/>
+    <row constituency_code="286" code="1427" name="Umoja Ii"/>
+    <row constituency_code="286" code="1428" name="Mowlem"/>
+    <row constituency_code="286" code="1429" name="Kariobangi South"/>
+    <row constituency_code="287" code="1430" name="Maringo/Hamza"/>
+    <row constituency_code="287" code="1431" name="Viwandani"/>
+    <row constituency_code="287" code="1432" name="Harambee"/>
+    <row constituency_code="287" code="1433" name="Makongeni"/>
+    <row constituency_code="288" code="1434" name="Pumwani"/>
+    <row constituency_code="288" code="1435" name="Eastleigh North"/>
+    <row constituency_code="288" code="1436" name="Eastleigh South"/>
+    <row constituency_code="288" code="1437" name="Airbase"/>
+    <row constituency_code="288" code="1438" name="California"/>
+    <row constituency_code="289" code="1439" name="Nairobi Central"/>
+    <row constituency_code="289" code="1440" name="Ngara"/>
+    <row constituency_code="289" code="1441" name="Pangani"/>
+    <row constituency_code="289" code="1442" name="Ziwani/Kariokor"/>
+    <row constituency_code="289" code="1443" name="Landimawe"/>
+    <row constituency_code="289" code="1444" name="Nairobi South"/>
+    <row constituency_code="290" code="1445" name="Hospital"/>
+    <row constituency_code="290" code="1446" name="Mabatini"/>
+    <row constituency_code="290" code="1447" name="Huruma"/>
+    <row constituency_code="290" code="1448" name="Ngei"/>
+    <row constituency_code="290" code="1449" name="Mlango Kubwa"/>
+    <row constituency_code="290" code="1450" name="Kiamaiko"/>
+    <row constituency_code="291" code="5000" name="Tanzania"/>
+    <row constituency_code="291" code="5001" name="Uganda"/>
+    <row constituency_code="291" code="5002" name="Rwanda"/>
+    <row constituency_code="291" code="5003" name="Burundi"/>
+    <row constituency_code="291" code="5004" name="South Africa"/>
+    <row constituency_code="292" code="1451" name="Prisons"/>
+</rows>
