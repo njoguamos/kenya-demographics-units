@@ -22,7 +22,7 @@ An updated data of Kenya administrative and political units
     - [ ] JSON (properties) version
     - [ ] SQL version
     - [ ] XML (properties) version  
-* Locations
+* Sub-Locations
     - [ ] PHP version
     - [ ] JSON (properties) version
     - [ ] SQL version
